@@ -1,0 +1,159 @@
+vehicle_id,registration_no,vehicle_model,vehicle_type,fuel_type,manufacture_year,permit_state
+TXI0001,WB04A0001,Toyota Etios,Yellow Taxi,CNG,2023,West Bengal
+TXI0002,WB04A0002,Ambassador,Yellow Taxi,CNG,2024,West Bengal
+TXI0003,WB04A0003,Ambassador,Yellow Taxi,CNG,2024,West Bengal
+TXI0004,WB04A0004,Maruti Suzuki Dzire,Yellow Taxi,CNG,2024,West Bengal
+TXI0005,WB04A0005,Ambassador,Yellow Taxi,Diesel,2016,West Bengal
+TXI0006,WB04A0006,Hyundai Xcent,Yellow Taxi,CNG,2017,West Bengal
+TXI0007,WB04A0007,Hyundai Xcent,Yellow Taxi,CNG,2016,West Bengal
+TXI0008,WB04A0008,Toyota Etios,Yellow Taxi,CNG,2022,West Bengal
+TXI0009,WB04A0009,Ambassador,Yellow Taxi,CNG,2023,West Bengal
+TXI0010,WB04A0010,Toyota Etios,Yellow Taxi,Petrol,2016,West Bengal
+TXI0011,WB04A0011,Hyundai Xcent,Yellow Taxi,CNG,2015,West Bengal
+TXI0012,WB04A0012,Ambassador,Yellow Taxi,CNG,2014,West Bengal
+TXI0013,WB04A0013,Ambassador,Yellow Taxi,Petrol,2014,West Bengal
+TXI0014,WB04A0014,Toyota Etios,Yellow Taxi,Petrol,2015,West Bengal
+TXI0015,WB04A0015,Hyundai Xcent,Yellow Taxi,Petrol,2020,West Bengal
+TXI0016,WB04A0016,Ambassador,Yellow Taxi,Petrol,2013,West Bengal
+TXI0017,WB04A0017,Toyota Etios,Yellow Taxi,Diesel,2020,West Bengal
+TXI0018,WB04A0018,Hyundai Xcent,Yellow Taxi,CNG,2012,West Bengal
+TXI0019,WB04A0019,Toyota Etios,Yellow Taxi,CNG,2012,West Bengal
+TXI0020,WB04A0020,Maruti Suzuki Dzire,Yellow Taxi,Petrol,2016,West Bengal
+TXI0021,WB04A0021,Ambassador,Yellow Taxi,CNG,2017,West Bengal
+TXI0022,WB04A0022,Maruti Suzuki Dzire,Yellow Taxi,CNG,2017,West Bengal
+TXI0023,WB04A0023,Hyundai Xcent,Yellow Taxi,Petrol,2014,West Bengal
+TXI0024,WB04A0024,Maruti Suzuki Dzire,Yellow Taxi,CNG,2018,West Bengal
+TXI0025,WB04A0025,Maruti Suzuki Dzire,Yellow Taxi,CNG,2020,West Bengal
+TXI0026,WB04A0026,Hyundai Xcent,Yellow Taxi,CNG,2022,West Bengal
+TXI0027,WB04A0027,Toyota Etios,Yellow Taxi,CNG,2023,West Bengal
+TXI0028,WB04A0028,Maruti Suzuki Dzire,Yellow Taxi,Petrol,2021,West Bengal
+TXI0029,WB04A0029,Toyota Etios,Yellow Taxi,CNG,2019,West Bengal
+TXI0030,WB04A0030,Maruti Suzuki Dzire,Yellow Taxi,CNG,2017,West Bengal
+TXI0031,WB04A0031,Toyota Etios,Yellow Taxi,CNG,2023,West Bengal
+TXI0032,WB04A0032,Hyundai Xcent,Yellow Taxi,Diesel,2019,West Bengal
+TXI0033,WB04A0033,Maruti Suzuki Dzire,Yellow Taxi,CNG,2023,West Bengal
+TXI0034,WB04A0034,Hyundai Xcent,Yellow Taxi,Petrol,2016,West Bengal
+TXI0035,WB04A0035,Maruti Suzuki Dzire,Yellow Taxi,Petrol,2019,West Bengal
+TXI0036,WB04A0036,Hyundai Xcent,Yellow Taxi,CNG,2021,West Bengal
+TXI0037,WB04A0037,Hyundai Xcent,Yellow Taxi,Petrol,2023,West Bengal
+TXI0038,WB04A0038,Maruti Suzuki Dzire,Yellow Taxi,CNG,2015,West Bengal
+TXI0039,WB04A0039,Maruti Suzuki Dzire,Yellow Taxi,Diesel,2021,West Bengal
+TXI0040,WB04A0040,Maruti Suzuki Dzire,Yellow Taxi,CNG,2019,West Bengal
+TXI0041,WB04A0041,Ambassador,Yellow Taxi,CNG,2021,West Bengal
+TXI0042,WB04A0042,Toyota Etios,Yellow Taxi,CNG,2023,West Bengal
+TXI0043,WB04A0043,Ambassador,Yellow Taxi,CNG,2013,West Bengal
+TXI0044,WB04A0044,Ambassador,Yellow Taxi,CNG,2023,West Bengal
+TXI0045,WB04A0045,Hyundai Xcent,Yellow Taxi,Diesel,2023,West Bengal
+TXI0046,WB04A0046,Maruti Suzuki Dzire,Yellow Taxi,CNG,2016,West Bengal
+TXI0047,WB04A0047,Toyota Etios,Yellow Taxi,Diesel,2020,West Bengal
+TXI0048,WB04A0048,Hyundai Xcent,Yellow Taxi,Diesel,2015,West Bengal
+TXI0049,WB04A0049,Ambassador,Yellow Taxi,Petrol,2022,West Bengal
+TXI0050,WB04A0050,Maruti Suzuki Dzire,Yellow Taxi,Petrol,2017,West Bengal
+TXI0051,WB04A0051,Hyundai Xcent,Yellow Taxi,Petrol,2012,West Bengal
+TXI0052,WB04A0052,Maruti Suzuki Dzire,Yellow Taxi,Petrol,2020,West Bengal
+TXI0053,WB04A0053,Hyundai Xcent,Yellow Taxi,Petrol,2012,West Bengal
+TXI0054,WB04A0054,Maruti Suzuki Dzire,Yellow Taxi,CNG,2016,West Bengal
+TXI0055,WB04A0055,Ambassador,Yellow Taxi,Petrol,2015,West Bengal
+TXI0056,WB04A0056,Toyota Etios,Yellow Taxi,CNG,2024,West Bengal
+TXI0057,WB04A0057,Ambassador,Yellow Taxi,CNG,2023,West Bengal
+TXI0058,WB04A0058,Toyota Etios,Yellow Taxi,Petrol,2024,West Bengal
+TXI0059,WB04A0059,Maruti Suzuki Dzire,Yellow Taxi,CNG,2024,West Bengal
+TXI0060,WB04A0060,Hyundai Xcent,Yellow Taxi,CNG,2014,West Bengal
+TXI0061,WB04A0061,Ambassador,Yellow Taxi,Petrol,2024,West Bengal
+TXI0062,WB04A0062,Toyota Etios,Yellow Taxi,CNG,2017,West Bengal
+TXI0063,WB04A0063,Ambassador,Yellow Taxi,CNG,2013,West Bengal
+TXI0064,WB04A0064,Toyota Etios,Yellow Taxi,Diesel,2014,West Bengal
+TXI0065,WB04A0065,Ambassador,Yellow Taxi,CNG,2016,West Bengal
+TXI0066,WB04A0066,Toyota Etios,Yellow Taxi,CNG,2020,West Bengal
+TXI0067,WB04A0067,Toyota Etios,Yellow Taxi,CNG,2013,West Bengal
+TXI0068,WB04A0068,Maruti Suzuki Dzire,Yellow Taxi,Petrol,2021,West Bengal
+TXI0069,WB04A0069,Toyota Etios,Yellow Taxi,CNG,2019,West Bengal
+TXI0070,WB04A0070,Maruti Suzuki Dzire,Yellow Taxi,CNG,2013,West Bengal
+TXI0071,WB04A0071,Toyota Etios,Yellow Taxi,Diesel,2022,West Bengal
+TXI0072,WB04A0072,Hyundai Xcent,Yellow Taxi,CNG,2024,West Bengal
+TXI0073,WB04A0073,Hyundai Xcent,Yellow Taxi,CNG,2016,West Bengal
+TXI0074,WB04A0074,Hyundai Xcent,Yellow Taxi,CNG,2018,West Bengal
+TXI0075,WB04A0075,Toyota Etios,Yellow Taxi,CNG,2019,West Bengal
+TXI0076,WB04A0076,Maruti Suzuki Dzire,Yellow Taxi,Diesel,2012,West Bengal
+TXI0077,WB04A0077,Maruti Suzuki Dzire,Yellow Taxi,Diesel,2017,West Bengal
+TXI0078,WB04A0078,Toyota Etios,Yellow Taxi,CNG,2012,West Bengal
+TXI0079,WB04A0079,Hyundai Xcent,Yellow Taxi,CNG,2013,West Bengal
+TXI0080,WB04A0080,Hyundai Xcent,Yellow Taxi,CNG,2012,West Bengal
+TXI0081,WB04A0081,Maruti Suzuki Dzire,Yellow Taxi,Petrol,2022,West Bengal
+TXI0082,WB04A0082,Hyundai Xcent,Yellow Taxi,Diesel,2016,West Bengal
+TXI0083,WB04A0083,Ambassador,Yellow Taxi,CNG,2021,West Bengal
+TXI0084,WB04A0084,Maruti Suzuki Dzire,Yellow Taxi,CNG,2020,West Bengal
+TXI0085,WB04A0085,Hyundai Xcent,Yellow Taxi,CNG,2017,West Bengal
+TXI0086,WB04A0086,Maruti Suzuki Dzire,Yellow Taxi,Diesel,2022,West Bengal
+TXI0087,WB04A0087,Ambassador,Yellow Taxi,CNG,2022,West Bengal
+TXI0088,WB04A0088,Maruti Suzuki Dzire,Yellow Taxi,Petrol,2012,West Bengal
+TXI0089,WB04A0089,Maruti Suzuki Dzire,Yellow Taxi,Diesel,2024,West Bengal
+TXI0090,WB04A0090,Maruti Suzuki Dzire,Yellow Taxi,Petrol,2012,West Bengal
+TXI0091,WB04A0091,Maruti Suzuki Dzire,Yellow Taxi,CNG,2013,West Bengal
+TXI0092,WB04A0092,Ambassador,Yellow Taxi,Diesel,2020,West Bengal
+TXI0093,WB04A0093,Toyota Etios,Yellow Taxi,Diesel,2014,West Bengal
+TXI0094,WB04A0094,Maruti Suzuki Dzire,Yellow Taxi,CNG,2012,West Bengal
+TXI0095,WB04A0095,Maruti Suzuki Dzire,Yellow Taxi,CNG,2016,West Bengal
+TXI0096,WB04A0096,Hyundai Xcent,Yellow Taxi,CNG,2018,West Bengal
+TXI0097,WB04A0097,Maruti Suzuki Dzire,Yellow Taxi,CNG,2017,West Bengal
+TXI0098,WB04A0098,Hyundai Xcent,Yellow Taxi,CNG,2023,West Bengal
+TXI0099,WB04A0099,Toyota Etios,Yellow Taxi,CNG,2012,West Bengal
+TXI0100,WB04A0100,Ambassador,Yellow Taxi,CNG,2016,West Bengal
+TXI0101,WB04A0101,Ambassador,Yellow Taxi,CNG,2016,West Bengal
+TXI0102,WB04A0102,Toyota Etios,Yellow Taxi,CNG,2017,West Bengal
+TXI0103,WB04A0103,Ambassador,Yellow Taxi,Petrol,2014,West Bengal
+TXI0104,WB04A0104,Toyota Etios,Yellow Taxi,CNG,2016,West Bengal
+TXI0105,WB04A0105,Toyota Etios,Yellow Taxi,Petrol,2018,West Bengal
+TXI0106,WB04A0106,Toyota Etios,Yellow Taxi,CNG,2016,West Bengal
+TXI0107,WB04A0107,Ambassador,Yellow Taxi,CNG,2016,West Bengal
+TXI0108,WB04A0108,Hyundai Xcent,Yellow Taxi,Diesel,2016,West Bengal
+TXI0109,WB04A0109,Toyota Etios,Yellow Taxi,CNG,2021,West Bengal
+TXI0110,WB04A0110,Maruti Suzuki Dzire,Yellow Taxi,Petrol,2021,West Bengal
+TXI0111,WB04A0111,Ambassador,Yellow Taxi,Petrol,2014,West Bengal
+TXI0112,WB04A0112,Toyota Etios,Yellow Taxi,CNG,2012,West Bengal
+TXI0113,WB04A0113,Toyota Etios,Yellow Taxi,CNG,2016,West Bengal
+TXI0114,WB04A0114,Maruti Suzuki Dzire,Yellow Taxi,Petrol,2020,West Bengal
+TXI0115,WB04A0115,Hyundai Xcent,Yellow Taxi,Petrol,2012,West Bengal
+TXI0116,WB04A0116,Hyundai Xcent,Yellow Taxi,CNG,2014,West Bengal
+TXI0117,WB04A0117,Hyundai Xcent,Yellow Taxi,Petrol,2024,West Bengal
+TXI0118,WB04A0118,Toyota Etios,Yellow Taxi,CNG,2024,West Bengal
+TXI0119,WB04A0119,Toyota Etios,Yellow Taxi,CNG,2015,West Bengal
+TXI0120,WB04A0120,Toyota Etios,Yellow Taxi,Petrol,2012,West Bengal
+TXI0121,WB04A0121,Ambassador,Yellow Taxi,Petrol,2012,West Bengal
+TXI0122,WB04A0122,Maruti Suzuki Dzire,Yellow Taxi,Diesel,2019,West Bengal
+TXI0123,WB04A0123,Toyota Etios,Yellow Taxi,CNG,2013,West Bengal
+TXI0124,WB04A0124,Maruti Suzuki Dzire,Yellow Taxi,CNG,2023,West Bengal
+TXI0125,WB04A0125,Maruti Suzuki Dzire,Yellow Taxi,CNG,2019,West Bengal
+TXI0126,WB04A0126,Hyundai Xcent,Yellow Taxi,Diesel,2018,West Bengal
+TXI0127,WB04A0127,Ambassador,Yellow Taxi,Diesel,2021,West Bengal
+TXI0128,WB04A0128,Toyota Etios,Yellow Taxi,CNG,2021,West Bengal
+TXI0129,WB04A0129,Hyundai Xcent,Yellow Taxi,CNG,2013,West Bengal
+TXI0130,WB04A0130,Hyundai Xcent,Yellow Taxi,Petrol,2017,West Bengal
+TXI0131,WB04A0131,Toyota Etios,Yellow Taxi,CNG,2017,West Bengal
+TXI0132,WB04A0132,Maruti Suzuki Dzire,Yellow Taxi,CNG,2014,West Bengal
+TXI0133,WB04A0133,Hyundai Xcent,Yellow Taxi,CNG,2022,West Bengal
+TXI0134,WB04A0134,Maruti Suzuki Dzire,Yellow Taxi,Diesel,2013,West Bengal
+TXI0135,WB04A0135,Ambassador,Yellow Taxi,Petrol,2023,West Bengal
+TXI0136,WB04A0136,Maruti Suzuki Dzire,Yellow Taxi,CNG,2012,West Bengal
+TXI0137,WB04A0137,Ambassador,Yellow Taxi,Petrol,2017,West Bengal
+TXI0138,WB04A0138,Maruti Suzuki Dzire,Yellow Taxi,CNG,2023,West Bengal
+TXI0139,WB04A0139,Hyundai Xcent,Yellow Taxi,Petrol,2016,West Bengal
+TXI0140,WB04A0140,Hyundai Xcent,Yellow Taxi,Petrol,2022,West Bengal
+TXI0141,WB04A0141,Ambassador,Yellow Taxi,Petrol,2020,West Bengal
+TXI0142,WB04A0142,Toyota Etios,Yellow Taxi,CNG,2012,West Bengal
+TXI0143,WB04A0143,Ambassador,Yellow Taxi,CNG,2018,West Bengal
+TXI0144,WB04A0144,Ambassador,Yellow Taxi,CNG,2016,West Bengal
+TXI0145,WB04A0145,Maruti Suzuki Dzire,Yellow Taxi,Diesel,2016,West Bengal
+TXI0146,WB04A0146,Maruti Suzuki Dzire,Yellow Taxi,CNG,2013,West Bengal
+TXI0147,WB04A0147,Ambassador,Yellow Taxi,CNG,2022,West Bengal
+TXI0148,WB04A0148,Hyundai Xcent,Yellow Taxi,Diesel,2014,West Bengal
+TXI0149,WB04A0149,Maruti Suzuki Dzire,Yellow Taxi,Petrol,2018,West Bengal
+TXI0150,WB04A0150,Toyota Etios,Yellow Taxi,Diesel,2017,West Bengal
+TXI0006,WB04A0006,Hyundai Xcent,Yellow Taxi,CNG,2017,West Bengal
+TXI0007,WB04A0007,Hyundai Xcent,Yellow Taxi,CNG,2016,West Bengal
+TXI0008,WB04A0008,Toyota Etios,Yellow Taxi,CNG,2022,West Bengal
+TXI0009,WB04A0009,Ambassador,Yellow Taxi,CNG,2023,West Bengal
+TXI0010,WB04A0010,Toyota Etios,Yellow Taxi,Petrol,2016,West Bengal
+TXI0011,WB04A0011,Hyundai Xcent,Yellow Taxi,CNG,2015,West Bengal
+TXI0012,WB04A0012,Ambassador,Yellow Taxi,CNG,2014,West Bengal
+TXI0013,WB04A0013,Ambassador,Yellow Taxi,Petrol,2014,West Bengal

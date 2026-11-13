@@ -1,0 +1,8 @@
+fare_rule_id,fare_type,charge_type,rate,currency
+FARE01,Metered,Base fare,30,INR
+FARE02,Metered,Per kilometer,15,INR
+FARE03,Metered,Waiting per minute,2,INR
+FARE04,Night surcharge,Percentage,20,Percent
+FARE05,Airport surcharge,Flat,50,INR
+FARE02,Metered,Per kilometer,15,INR
+FARE03,Metered,Waiting per minute,2,INR

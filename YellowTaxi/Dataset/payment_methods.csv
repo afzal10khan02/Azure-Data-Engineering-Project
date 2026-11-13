@@ -1,0 +1,8 @@
+payment_method_id,payment_method,provider,availability
+PAY01,Cash,Cash,Available in Kolkata
+PAY02,UPI,Google Pay/PhonePe/BHIM,Available in Kolkata
+PAY03,Card,Bank card,Available in Kolkata
+PAY04,Wallet,Digital wallet,Available in Kolkata
+PAY05,Mixed,Cash + digital,Available in Kolkata
+PAY02,UPI,Google Pay/PhonePe/BHIM,Available in Kolkata
+PAY03,Card,Bank card,Available in Kolkata

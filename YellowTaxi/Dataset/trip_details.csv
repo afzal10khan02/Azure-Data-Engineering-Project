@@ -1,0 +1,1214 @@
+trip_id,dispatch_type,booking_channel,meter_used,ac_requested,luggage_count,trip_purpose
+TRP000001,App Booking,Mobile App,TRUE,TRUE,3,Business
+TRP000002,App Booking,Roadside,TRUE,FALSE,0,Commute
+TRP000003,App Booking,Mobile App,TRUE,FALSE,3,Tourism
+TRP000004,App Booking,Taxi Stand,FALSE,FALSE,0,Airport
+TRP000005,Phone Booking,Mobile App,TRUE,FALSE,4,Airport
+TRP000006,Street Hail,Call Center,TRUE,FALSE,2,Tourism
+TRP000007,Street Hail,Call Center,TRUE,TRUE,3,Commute
+TRP000008,Street Hail,Mobile App,TRUE,FALSE,0,Shopping
+TRP000009,Phone Booking,Taxi Stand,FALSE,TRUE,0,Business
+TRP000010,Street Hail,Taxi Stand,TRUE,FALSE,3,Medical
+TRP000011,Phone Booking,Call Center,TRUE,TRUE,1,Airport
+TRP000012,Phone Booking,Taxi Stand,TRUE,TRUE,0,Tourism
+TRP000013,Phone Booking,Mobile App,TRUE,TRUE,3,Medical
+TRP000014,Street Hail,Roadside,TRUE,FALSE,0,Commute
+TRP000015,Street Hail,Mobile App,TRUE,FALSE,1,Medical
+TRP000016,Street Hail,Call Center,TRUE,FALSE,2,Medical
+TRP000017,App Booking,Call Center,TRUE,FALSE,1,Business
+TRP000018,Phone Booking,Call Center,TRUE,FALSE,4,Commute
+TRP000019,App Booking,Taxi Stand,TRUE,TRUE,3,Medical
+TRP000020,Phone Booking,Mobile App,TRUE,TRUE,1,Airport
+TRP000021,Street Hail,Roadside,TRUE,TRUE,2,Commute
+TRP000022,Phone Booking,Mobile App,TRUE,FALSE,0,Airport
+TRP000023,Phone Booking,Roadside,TRUE,FALSE,3,Tourism
+TRP000024,App Booking,Mobile App,TRUE,TRUE,1,Tourism
+TRP000025,Phone Booking,Call Center,TRUE,FALSE,2,Shopping
+TRP000026,Street Hail,Roadside,TRUE,FALSE,1,Tourism
+TRP000027,Phone Booking,Mobile App,TRUE,TRUE,4,Medical
+TRP000028,Phone Booking,Taxi Stand,TRUE,TRUE,3,Commute
+TRP000029,Phone Booking,Taxi Stand,TRUE,FALSE,0,Tourism
+TRP000030,App Booking,Mobile App,TRUE,FALSE,2,Airport
+TRP000031,Phone Booking,Call Center,TRUE,TRUE,1,Medical
+TRP000032,Phone Booking,Roadside,TRUE,FALSE,3,Tourism
+TRP000033,App Booking,Mobile App,TRUE,TRUE,1,Business
+TRP000034,App Booking,Taxi Stand,TRUE,TRUE,3,Airport
+TRP000035,App Booking,Roadside,TRUE,TRUE,4,Airport
+TRP000036,App Booking,Taxi Stand,TRUE,FALSE,1,Shopping
+TRP000037,Street Hail,Taxi Stand,TRUE,TRUE,4,Business
+TRP000038,Street Hail,Mobile App,TRUE,TRUE,2,Shopping
+TRP000039,Phone Booking,Taxi Stand,TRUE,FALSE,4,Tourism
+TRP000040,Street Hail,Roadside,TRUE,TRUE,3,Business
+TRP000041,Phone Booking,Call Center,TRUE,FALSE,2,Airport
+TRP000042,Street Hail,Mobile App,TRUE,FALSE,1,Shopping
+TRP000043,App Booking,Roadside,TRUE,FALSE,1,Medical
+TRP000044,App Booking,Mobile App,TRUE,TRUE,3,Business
+TRP000045,Street Hail,Taxi Stand,FALSE,TRUE,0,Airport
+TRP000046,Street Hail,Taxi Stand,FALSE,FALSE,0,Commute
+TRP000047,Phone Booking,Roadside,TRUE,FALSE,1,Business
+TRP000048,Phone Booking,Roadside,TRUE,FALSE,3,Business
+TRP000049,Phone Booking,Call Center,TRUE,TRUE,0,Tourism
+TRP000050,App Booking,Roadside,TRUE,FALSE,4,Medical
+TRP000051,App Booking,Roadside,TRUE,FALSE,1,Tourism
+TRP000052,App Booking,Mobile App,TRUE,FALSE,4,Business
+TRP000053,App Booking,Taxi Stand,TRUE,TRUE,3,Business
+TRP000054,Phone Booking,Roadside,TRUE,FALSE,4,Medical
+TRP000055,App Booking,Call Center,TRUE,TRUE,0,Medical
+TRP000056,App Booking,Roadside,TRUE,TRUE,0,Shopping
+TRP000057,App Booking,Taxi Stand,TRUE,FALSE,2,Airport
+TRP000058,App Booking,Roadside,FALSE,FALSE,1,Airport
+TRP000059,Street Hail,Mobile App,TRUE,FALSE,3,Shopping
+TRP000060,Phone Booking,Taxi Stand,TRUE,TRUE,1,Airport
+TRP000061,Phone Booking,Roadside,TRUE,TRUE,4,Business
+TRP000062,App Booking,Mobile App,TRUE,TRUE,3,Shopping
+TRP000063,Street Hail,Taxi Stand,TRUE,FALSE,3,Shopping
+TRP000064,Phone Booking,Roadside,TRUE,TRUE,0,Airport
+TRP000065,Phone Booking,Mobile App,TRUE,FALSE,4,Commute
+TRP000066,App Booking,Call Center,TRUE,FALSE,0,Airport
+TRP000067,App Booking,Mobile App,TRUE,FALSE,0,Tourism
+TRP000068,Phone Booking,Call Center,FALSE,TRUE,2,Commute
+TRP000069,Phone Booking,Roadside,TRUE,TRUE,0,Shopping
+TRP000070,Street Hail,Mobile App,FALSE,TRUE,1,Commute
+TRP000071,Phone Booking,Call Center,TRUE,FALSE,3,Business
+TRP000072,Phone Booking,Taxi Stand,TRUE,TRUE,0,Medical
+TRP000073,App Booking,Mobile App,TRUE,TRUE,1,Commute
+TRP000074,Phone Booking,Roadside,TRUE,FALSE,4,Tourism
+TRP000075,App Booking,Taxi Stand,TRUE,FALSE,3,Medical
+TRP000076,Phone Booking,Call Center,TRUE,TRUE,4,Business
+TRP000077,Phone Booking,Mobile App,TRUE,FALSE,1,Tourism
+TRP000078,Phone Booking,Mobile App,TRUE,TRUE,4,Medical
+TRP000079,Street Hail,Roadside,TRUE,FALSE,4,Business
+TRP000080,App Booking,Taxi Stand,TRUE,FALSE,4,Medical
+TRP000081,Street Hail,Mobile App,TRUE,TRUE,0,Medical
+TRP000082,Phone Booking,Mobile App,TRUE,FALSE,0,Airport
+TRP000083,Street Hail,Taxi Stand,TRUE,FALSE,0,Tourism
+TRP000084,App Booking,Mobile App,TRUE,FALSE,3,Tourism
+TRP000085,Phone Booking,Taxi Stand,TRUE,TRUE,1,Commute
+TRP000086,Street Hail,Taxi Stand,TRUE,FALSE,0,Tourism
+TRP000087,Street Hail,Taxi Stand,TRUE,FALSE,4,Tourism
+TRP000088,App Booking,Roadside,TRUE,TRUE,4,Medical
+TRP000089,Street Hail,Taxi Stand,TRUE,TRUE,4,Shopping
+TRP000090,App Booking,Taxi Stand,TRUE,FALSE,4,Airport
+TRP000091,Phone Booking,Call Center,TRUE,FALSE,2,Commute
+TRP000092,Phone Booking,Call Center,FALSE,FALSE,3,Airport
+TRP000093,Street Hail,Roadside,TRUE,TRUE,1,Commute
+TRP000094,Phone Booking,Taxi Stand,TRUE,FALSE,1,Business
+TRP000095,Phone Booking,Call Center,TRUE,TRUE,0,Medical
+TRP000096,Street Hail,Call Center,TRUE,TRUE,2,Tourism
+TRP000097,Phone Booking,Mobile App,TRUE,FALSE,1,Tourism
+TRP000098,Street Hail,Taxi Stand,TRUE,FALSE,3,Shopping
+TRP000099,App Booking,Call Center,FALSE,TRUE,4,Airport
+TRP000100,App Booking,Roadside,TRUE,FALSE,0,Airport
+TRP000101,App Booking,Mobile App,FALSE,FALSE,3,Airport
+TRP000102,Street Hail,Mobile App,TRUE,TRUE,1,Tourism
+TRP000103,Street Hail,Taxi Stand,TRUE,FALSE,2,Airport
+TRP000104,Phone Booking,Taxi Stand,TRUE,TRUE,0,Medical
+TRP000105,Phone Booking,Mobile App,TRUE,FALSE,1,Commute
+TRP000106,Phone Booking,Roadside,TRUE,TRUE,0,Tourism
+TRP000107,Phone Booking,Taxi Stand,FALSE,TRUE,1,Medical
+TRP000108,Phone Booking,Taxi Stand,TRUE,FALSE,4,Business
+TRP000109,Street Hail,Mobile App,TRUE,TRUE,2,Medical
+TRP000110,Street Hail,Mobile App,TRUE,TRUE,4,Medical
+TRP000111,App Booking,Taxi Stand,TRUE,FALSE,1,Business
+TRP000112,App Booking,Call Center,TRUE,FALSE,3,Medical
+TRP000113,App Booking,Taxi Stand,TRUE,FALSE,4,Commute
+TRP000114,App Booking,Call Center,TRUE,TRUE,3,Tourism
+TRP000115,Street Hail,Mobile App,TRUE,TRUE,1,Shopping
+TRP000116,Street Hail,Call Center,TRUE,TRUE,2,Business
+TRP000117,Street Hail,Roadside,TRUE,FALSE,3,Tourism
+TRP000118,Phone Booking,Mobile App,FALSE,TRUE,1,Airport
+TRP000119,Phone Booking,Taxi Stand,TRUE,TRUE,3,Commute
+TRP000120,App Booking,Taxi Stand,TRUE,FALSE,4,Shopping
+TRP000121,Phone Booking,Mobile App,TRUE,TRUE,1,Commute
+TRP000122,Street Hail,Mobile App,TRUE,FALSE,4,Commute
+TRP000123,App Booking,Roadside,TRUE,FALSE,0,Airport
+TRP000124,App Booking,Mobile App,TRUE,FALSE,1,Shopping
+TRP000125,Phone Booking,Taxi Stand,TRUE,TRUE,3,Commute
+TRP000126,App Booking,Roadside,TRUE,TRUE,0,Airport
+TRP000127,Phone Booking,Taxi Stand,TRUE,TRUE,4,Business
+TRP000128,Phone Booking,Call Center,TRUE,FALSE,4,Airport
+TRP000129,App Booking,Mobile App,TRUE,FALSE,3,Medical
+TRP000130,Phone Booking,Call Center,TRUE,FALSE,0,Tourism
+TRP000131,Phone Booking,Taxi Stand,TRUE,TRUE,2,Airport
+TRP000132,Phone Booking,Call Center,TRUE,TRUE,3,Airport
+TRP000133,Phone Booking,Call Center,FALSE,TRUE,4,Airport
+TRP000134,App Booking,Taxi Stand,TRUE,TRUE,1,Commute
+TRP000135,Street Hail,Taxi Stand,TRUE,TRUE,0,Shopping
+TRP000136,Street Hail,Mobile App,TRUE,FALSE,2,Airport
+TRP000137,Phone Booking,Call Center,TRUE,TRUE,1,Airport
+TRP000138,Phone Booking,Roadside,FALSE,FALSE,0,Medical
+TRP000139,Phone Booking,Roadside,TRUE,FALSE,3,Medical
+TRP000140,Street Hail,Taxi Stand,TRUE,TRUE,3,Business
+TRP000141,Phone Booking,Taxi Stand,TRUE,FALSE,0,Business
+TRP000142,App Booking,Call Center,TRUE,TRUE,2,Medical
+TRP000143,App Booking,Taxi Stand,FALSE,TRUE,0,Shopping
+TRP000144,App Booking,Roadside,TRUE,FALSE,1,Business
+TRP000145,Street Hail,Mobile App,TRUE,TRUE,1,Tourism
+TRP000146,Phone Booking,Mobile App,TRUE,TRUE,3,Tourism
+TRP000147,Phone Booking,Call Center,TRUE,FALSE,0,Shopping
+TRP000148,Phone Booking,Mobile App,TRUE,FALSE,3,Medical
+TRP000149,Street Hail,Taxi Stand,TRUE,FALSE,2,Business
+TRP000150,Street Hail,Taxi Stand,FALSE,FALSE,1,Airport
+TRP000151,Street Hail,Taxi Stand,TRUE,FALSE,4,Medical
+TRP000152,Street Hail,Taxi Stand,TRUE,FALSE,4,Business
+TRP000153,App Booking,Call Center,FALSE,TRUE,0,Shopping
+TRP000154,Street Hail,Mobile App,TRUE,TRUE,0,Tourism
+TRP000155,Street Hail,Roadside,TRUE,TRUE,4,Shopping
+TRP000156,Street Hail,Mobile App,TRUE,FALSE,0,Business
+TRP000157,Phone Booking,Taxi Stand,TRUE,TRUE,1,Shopping
+TRP000158,Phone Booking,Roadside,TRUE,FALSE,2,Business
+TRP000159,Phone Booking,Call Center,FALSE,TRUE,2,Business
+TRP000160,App Booking,Taxi Stand,TRUE,FALSE,3,Shopping
+TRP000161,App Booking,Taxi Stand,TRUE,TRUE,1,Commute
+TRP000162,Street Hail,Roadside,TRUE,FALSE,0,Airport
+TRP000163,Phone Booking,Call Center,TRUE,FALSE,0,Medical
+TRP000164,App Booking,Roadside,TRUE,FALSE,3,Tourism
+TRP000165,Phone Booking,Call Center,TRUE,FALSE,3,Airport
+TRP000166,App Booking,Taxi Stand,FALSE,TRUE,0,Medical
+TRP000167,App Booking,Mobile App,TRUE,TRUE,0,Medical
+TRP000168,Street Hail,Taxi Stand,TRUE,FALSE,1,Tourism
+TRP000169,Street Hail,Mobile App,TRUE,FALSE,3,Airport
+TRP000170,App Booking,Mobile App,TRUE,FALSE,1,Tourism
+TRP000171,Street Hail,Call Center,TRUE,TRUE,0,Business
+TRP000172,App Booking,Roadside,TRUE,FALSE,4,Tourism
+TRP000173,App Booking,Call Center,TRUE,FALSE,4,Shopping
+TRP000174,Phone Booking,Taxi Stand,TRUE,TRUE,0,Commute
+TRP000175,Street Hail,Roadside,TRUE,FALSE,3,Commute
+TRP000176,Street Hail,Mobile App,TRUE,FALSE,4,Commute
+TRP000177,Street Hail,Mobile App,TRUE,TRUE,3,Airport
+TRP000178,Phone Booking,Taxi Stand,TRUE,FALSE,4,Airport
+TRP000179,Phone Booking,Roadside,TRUE,FALSE,3,Business
+TRP000180,Phone Booking,Taxi Stand,TRUE,TRUE,4,Commute
+TRP000181,Street Hail,Taxi Stand,TRUE,FALSE,3,Business
+TRP000182,Street Hail,Call Center,TRUE,TRUE,1,Commute
+TRP000183,Street Hail,Taxi Stand,TRUE,FALSE,3,Airport
+TRP000184,Phone Booking,Roadside,TRUE,FALSE,1,Shopping
+TRP000185,Phone Booking,Taxi Stand,TRUE,FALSE,1,Shopping
+TRP000186,App Booking,Roadside,TRUE,FALSE,0,Shopping
+TRP000187,Phone Booking,Mobile App,TRUE,FALSE,1,Tourism
+TRP000188,App Booking,Taxi Stand,TRUE,TRUE,2,Shopping
+TRP000189,Street Hail,Roadside,FALSE,FALSE,1,Medical
+TRP000190,Phone Booking,Mobile App,TRUE,FALSE,3,Commute
+TRP000191,Street Hail,Roadside,TRUE,TRUE,1,Shopping
+TRP000192,Street Hail,Mobile App,TRUE,TRUE,3,Medical
+TRP000193,Street Hail,Call Center,FALSE,FALSE,3,Medical
+TRP000194,Street Hail,Taxi Stand,TRUE,TRUE,2,Medical
+TRP000195,Phone Booking,Taxi Stand,TRUE,FALSE,1,Business
+TRP000196,Street Hail,Mobile App,TRUE,TRUE,1,Business
+TRP000197,App Booking,Call Center,TRUE,TRUE,4,Medical
+TRP000198,Phone Booking,Roadside,TRUE,FALSE,4,Tourism
+TRP000199,Street Hail,Call Center,TRUE,TRUE,0,Shopping
+TRP000200,Phone Booking,Roadside,TRUE,FALSE,3,Commute
+TRP000201,App Booking,Roadside,TRUE,TRUE,2,Tourism
+TRP000202,Street Hail,Taxi Stand,TRUE,TRUE,4,Airport
+TRP000203,App Booking,Mobile App,TRUE,TRUE,1,Business
+TRP000204,Street Hail,Taxi Stand,TRUE,FALSE,0,Shopping
+TRP000205,App Booking,Taxi Stand,TRUE,FALSE,2,Shopping
+TRP000206,Street Hail,Taxi Stand,TRUE,TRUE,1,Airport
+TRP000207,Phone Booking,Roadside,TRUE,FALSE,1,Airport
+TRP000208,Street Hail,Taxi Stand,FALSE,FALSE,3,Shopping
+TRP000209,Phone Booking,Roadside,TRUE,FALSE,3,Airport
+TRP000210,Street Hail,Mobile App,TRUE,TRUE,4,Shopping
+TRP000211,Street Hail,Roadside,TRUE,FALSE,4,Tourism
+TRP000212,App Booking,Roadside,TRUE,TRUE,1,Airport
+TRP000213,App Booking,Call Center,TRUE,TRUE,1,Tourism
+TRP000214,App Booking,Taxi Stand,TRUE,TRUE,4,Tourism
+TRP000215,Street Hail,Taxi Stand,TRUE,TRUE,4,Airport
+TRP000216,Street Hail,Taxi Stand,TRUE,TRUE,1,Shopping
+TRP000217,Street Hail,Taxi Stand,TRUE,FALSE,2,Medical
+TRP000218,Phone Booking,Call Center,TRUE,FALSE,1,Shopping
+TRP000219,Phone Booking,Call Center,TRUE,TRUE,2,Commute
+TRP000220,Street Hail,Call Center,TRUE,FALSE,2,Airport
+TRP000221,App Booking,Call Center,TRUE,FALSE,1,Business
+TRP000222,App Booking,Taxi Stand,TRUE,FALSE,0,Airport
+TRP000223,App Booking,Roadside,TRUE,FALSE,4,Commute
+TRP000224,Street Hail,Mobile App,TRUE,FALSE,3,Tourism
+TRP000225,App Booking,Call Center,TRUE,FALSE,1,Business
+TRP000226,Street Hail,Roadside,TRUE,FALSE,2,Business
+TRP000227,Phone Booking,Call Center,TRUE,TRUE,1,Shopping
+TRP000228,App Booking,Taxi Stand,TRUE,TRUE,4,Medical
+TRP000229,Phone Booking,Taxi Stand,TRUE,TRUE,2,Shopping
+TRP000230,App Booking,Roadside,TRUE,FALSE,3,Business
+TRP000231,Street Hail,Roadside,TRUE,FALSE,3,Business
+TRP000232,Street Hail,Roadside,TRUE,TRUE,3,Medical
+TRP000233,Street Hail,Taxi Stand,TRUE,FALSE,0,Airport
+TRP000234,Street Hail,Taxi Stand,TRUE,FALSE,2,Medical
+TRP000235,App Booking,Mobile App,TRUE,TRUE,2,Tourism
+TRP000236,Phone Booking,Roadside,TRUE,TRUE,0,Shopping
+TRP000237,Street Hail,Mobile App,TRUE,TRUE,2,Airport
+TRP000238,App Booking,Call Center,TRUE,FALSE,0,Shopping
+TRP000239,Phone Booking,Mobile App,TRUE,FALSE,1,Medical
+TRP000240,Street Hail,Call Center,TRUE,FALSE,4,Airport
+TRP000241,Phone Booking,Call Center,TRUE,TRUE,3,Medical
+TRP000242,Street Hail,Mobile App,TRUE,TRUE,0,Tourism
+TRP000243,Phone Booking,Roadside,TRUE,FALSE,0,Commute
+TRP000244,Phone Booking,Call Center,TRUE,TRUE,0,Business
+TRP000245,Street Hail,Roadside,TRUE,TRUE,1,Airport
+TRP000246,App Booking,Taxi Stand,TRUE,FALSE,0,Business
+TRP000247,Phone Booking,Call Center,TRUE,TRUE,4,Commute
+TRP000248,Street Hail,Taxi Stand,TRUE,TRUE,4,Airport
+TRP000249,Phone Booking,Mobile App,TRUE,TRUE,3,Business
+TRP000250,Phone Booking,Roadside,TRUE,FALSE,1,Business
+TRP000251,App Booking,Mobile App,TRUE,FALSE,4,Airport
+TRP000252,Phone Booking,Call Center,TRUE,TRUE,2,Business
+TRP000253,Phone Booking,Taxi Stand,TRUE,FALSE,2,Business
+TRP000254,Street Hail,Call Center,FALSE,FALSE,2,Airport
+TRP000255,Street Hail,Mobile App,TRUE,FALSE,0,Business
+TRP000256,App Booking,Roadside,FALSE,TRUE,0,Business
+TRP000257,Phone Booking,Roadside,FALSE,FALSE,2,Shopping
+TRP000258,Phone Booking,Call Center,TRUE,TRUE,3,Tourism
+TRP000259,Phone Booking,Call Center,TRUE,TRUE,3,Shopping
+TRP000260,App Booking,Taxi Stand,TRUE,FALSE,0,Commute
+TRP000261,Phone Booking,Mobile App,TRUE,TRUE,2,Shopping
+TRP000262,Street Hail,Call Center,TRUE,FALSE,3,Shopping
+TRP000263,App Booking,Taxi Stand,FALSE,FALSE,0,Commute
+TRP000264,Street Hail,Call Center,TRUE,TRUE,2,Business
+TRP000265,Street Hail,Roadside,TRUE,TRUE,1,Business
+TRP000266,App Booking,Taxi Stand,TRUE,FALSE,2,Shopping
+TRP000267,Street Hail,Taxi Stand,TRUE,FALSE,2,Commute
+TRP000268,Phone Booking,Call Center,TRUE,FALSE,4,Business
+TRP000269,App Booking,Mobile App,TRUE,FALSE,4,Medical
+TRP000270,Street Hail,Roadside,TRUE,TRUE,1,Airport
+TRP000271,Phone Booking,Mobile App,TRUE,TRUE,1,Airport
+TRP000272,Phone Booking,Taxi Stand,TRUE,TRUE,2,Tourism
+TRP000273,Street Hail,Mobile App,TRUE,FALSE,3,Airport
+TRP000274,Phone Booking,Taxi Stand,TRUE,TRUE,1,Shopping
+TRP000275,App Booking,Mobile App,TRUE,TRUE,2,Airport
+TRP000276,Street Hail,Call Center,TRUE,TRUE,0,Airport
+TRP000277,Phone Booking,Mobile App,TRUE,TRUE,4,Medical
+TRP000278,Phone Booking,Taxi Stand,TRUE,FALSE,3,Business
+TRP000279,Street Hail,Roadside,TRUE,TRUE,2,Medical
+TRP000280,Street Hail,Roadside,TRUE,TRUE,0,Shopping
+TRP000281,Street Hail,Roadside,TRUE,TRUE,4,Airport
+TRP000282,Street Hail,Taxi Stand,TRUE,TRUE,0,Business
+TRP000283,App Booking,Mobile App,TRUE,FALSE,2,Tourism
+TRP000284,Street Hail,Roadside,TRUE,FALSE,1,Tourism
+TRP000285,App Booking,Roadside,TRUE,TRUE,4,Airport
+TRP000286,App Booking,Roadside,TRUE,FALSE,0,Airport
+TRP000287,Street Hail,Call Center,FALSE,FALSE,1,Tourism
+TRP000288,App Booking,Taxi Stand,TRUE,FALSE,3,Tourism
+TRP000289,Street Hail,Taxi Stand,TRUE,FALSE,2,Shopping
+TRP000290,Street Hail,Taxi Stand,TRUE,TRUE,2,Airport
+TRP000291,Phone Booking,Taxi Stand,TRUE,FALSE,4,Tourism
+TRP000292,Street Hail,Taxi Stand,TRUE,FALSE,0,Commute
+TRP000293,Phone Booking,Call Center,TRUE,TRUE,3,Tourism
+TRP000294,App Booking,Mobile App,TRUE,TRUE,4,Business
+TRP000295,Phone Booking,Call Center,TRUE,TRUE,4,Business
+TRP000296,App Booking,Roadside,FALSE,TRUE,0,Commute
+TRP000297,Street Hail,Call Center,TRUE,FALSE,3,Shopping
+TRP000298,App Booking,Taxi Stand,TRUE,TRUE,0,Airport
+TRP000299,App Booking,Call Center,TRUE,FALSE,2,Airport
+TRP000300,Street Hail,Taxi Stand,TRUE,FALSE,1,Tourism
+TRP000301,App Booking,Call Center,TRUE,TRUE,2,Business
+TRP000302,Street Hail,Taxi Stand,TRUE,TRUE,2,Shopping
+TRP000303,Phone Booking,Roadside,TRUE,FALSE,4,Shopping
+TRP000304,Street Hail,Taxi Stand,TRUE,FALSE,2,Shopping
+TRP000305,Street Hail,Call Center,TRUE,TRUE,3,Tourism
+TRP000306,App Booking,Roadside,TRUE,TRUE,2,Airport
+TRP000307,Phone Booking,Call Center,TRUE,TRUE,3,Shopping
+TRP000308,Street Hail,Roadside,TRUE,FALSE,0,Tourism
+TRP000309,Phone Booking,Mobile App,TRUE,FALSE,4,Tourism
+TRP000310,Phone Booking,Mobile App,TRUE,TRUE,3,Commute
+TRP000311,App Booking,Mobile App,TRUE,FALSE,2,Medical
+TRP000312,Street Hail,Call Center,TRUE,TRUE,4,Shopping
+TRP000313,App Booking,Call Center,TRUE,FALSE,4,Medical
+TRP000314,Street Hail,Roadside,TRUE,FALSE,3,Airport
+TRP000315,Phone Booking,Roadside,TRUE,TRUE,3,Tourism
+TRP000316,Street Hail,Roadside,TRUE,TRUE,1,Shopping
+TRP000317,Street Hail,Roadside,TRUE,TRUE,1,Business
+TRP000318,Phone Booking,Taxi Stand,TRUE,FALSE,4,Airport
+TRP000319,Phone Booking,Mobile App,TRUE,FALSE,1,Commute
+TRP000320,Street Hail,Taxi Stand,TRUE,TRUE,2,Commute
+TRP000321,App Booking,Taxi Stand,TRUE,FALSE,0,Medical
+TRP000322,Street Hail,Taxi Stand,TRUE,TRUE,4,Tourism
+TRP000323,Phone Booking,Taxi Stand,TRUE,FALSE,0,Medical
+TRP000324,App Booking,Mobile App,TRUE,TRUE,1,Business
+TRP000325,Phone Booking,Taxi Stand,TRUE,FALSE,3,Business
+TRP000326,Phone Booking,Roadside,TRUE,FALSE,4,Commute
+TRP000327,App Booking,Call Center,TRUE,FALSE,1,Shopping
+TRP000328,Phone Booking,Roadside,TRUE,FALSE,2,Commute
+TRP000329,Phone Booking,Call Center,TRUE,TRUE,4,Commute
+TRP000330,Phone Booking,Roadside,TRUE,FALSE,4,Business
+TRP000331,Phone Booking,Roadside,TRUE,TRUE,3,Medical
+TRP000332,Phone Booking,Call Center,TRUE,TRUE,4,Business
+TRP000333,Phone Booking,Mobile App,FALSE,TRUE,3,Tourism
+TRP000334,Phone Booking,Taxi Stand,TRUE,TRUE,1,Business
+TRP000335,Phone Booking,Roadside,TRUE,FALSE,2,Business
+TRP000336,Phone Booking,Mobile App,TRUE,TRUE,2,Commute
+TRP000337,Street Hail,Taxi Stand,TRUE,FALSE,4,Shopping
+TRP000338,Street Hail,Mobile App,TRUE,FALSE,4,Commute
+TRP000339,Phone Booking,Mobile App,TRUE,FALSE,1,Airport
+TRP000340,Street Hail,Taxi Stand,TRUE,FALSE,3,Business
+TRP000341,App Booking,Roadside,TRUE,TRUE,2,Business
+TRP000342,Street Hail,Mobile App,FALSE,FALSE,3,Airport
+TRP000343,Phone Booking,Roadside,TRUE,TRUE,1,Business
+TRP000344,Phone Booking,Roadside,TRUE,FALSE,2,Business
+TRP000345,Street Hail,Roadside,TRUE,FALSE,2,Tourism
+TRP000346,Phone Booking,Taxi Stand,TRUE,TRUE,0,Business
+TRP000347,App Booking,Call Center,TRUE,FALSE,1,Airport
+TRP000348,App Booking,Roadside,TRUE,FALSE,1,Commute
+TRP000349,Phone Booking,Call Center,TRUE,FALSE,0,Business
+TRP000350,App Booking,Call Center,FALSE,FALSE,3,Shopping
+TRP000351,App Booking,Mobile App,TRUE,FALSE,0,Airport
+TRP000352,Street Hail,Roadside,TRUE,TRUE,1,Medical
+TRP000353,App Booking,Roadside,TRUE,FALSE,3,Tourism
+TRP000354,Street Hail,Roadside,TRUE,FALSE,2,Airport
+TRP000355,Phone Booking,Call Center,TRUE,TRUE,0,Commute
+TRP000356,Street Hail,Taxi Stand,TRUE,FALSE,3,Airport
+TRP000357,Phone Booking,Call Center,TRUE,TRUE,3,Medical
+TRP000358,Phone Booking,Roadside,TRUE,FALSE,3,Tourism
+TRP000359,Phone Booking,Roadside,TRUE,FALSE,0,Shopping
+TRP000360,Phone Booking,Roadside,TRUE,TRUE,2,Medical
+TRP000361,Phone Booking,Call Center,TRUE,FALSE,3,Airport
+TRP000362,Street Hail,Roadside,TRUE,FALSE,0,Medical
+TRP000363,Phone Booking,Mobile App,TRUE,TRUE,1,Airport
+TRP000364,App Booking,Roadside,TRUE,TRUE,0,Shopping
+TRP000365,App Booking,Taxi Stand,TRUE,FALSE,0,Shopping
+TRP000366,Phone Booking,Mobile App,TRUE,TRUE,0,Commute
+TRP000367,App Booking,Roadside,TRUE,FALSE,3,Shopping
+TRP000368,Street Hail,Mobile App,TRUE,TRUE,0,Business
+TRP000369,Street Hail,Roadside,TRUE,FALSE,1,Medical
+TRP000370,Phone Booking,Taxi Stand,TRUE,TRUE,3,Medical
+TRP000371,Phone Booking,Roadside,TRUE,TRUE,1,Airport
+TRP000372,Phone Booking,Mobile App,TRUE,TRUE,4,Shopping
+TRP000373,App Booking,Taxi Stand,TRUE,TRUE,0,Commute
+TRP000374,App Booking,Call Center,TRUE,TRUE,3,Commute
+TRP000375,Street Hail,Taxi Stand,TRUE,TRUE,3,Commute
+TRP000376,App Booking,Taxi Stand,TRUE,TRUE,0,Tourism
+TRP000377,Street Hail,Taxi Stand,TRUE,TRUE,2,Business
+TRP000378,App Booking,Mobile App,TRUE,TRUE,2,Shopping
+TRP000379,Street Hail,Taxi Stand,TRUE,FALSE,1,Commute
+TRP000380,Phone Booking,Roadside,TRUE,TRUE,0,Business
+TRP000381,App Booking,Taxi Stand,TRUE,FALSE,0,Medical
+TRP000382,Street Hail,Taxi Stand,TRUE,TRUE,4,Airport
+TRP000383,App Booking,Roadside,TRUE,FALSE,2,Shopping
+TRP000384,Phone Booking,Roadside,TRUE,FALSE,2,Shopping
+TRP000385,Street Hail,Call Center,TRUE,TRUE,0,Tourism
+TRP000386,App Booking,Taxi Stand,TRUE,TRUE,1,Medical
+TRP000387,App Booking,Mobile App,TRUE,FALSE,0,Shopping
+TRP000388,Phone Booking,Taxi Stand,TRUE,FALSE,1,Tourism
+TRP000389,Phone Booking,Taxi Stand,TRUE,TRUE,2,Tourism
+TRP000390,Street Hail,Roadside,TRUE,TRUE,4,Tourism
+TRP000391,App Booking,Call Center,TRUE,TRUE,3,Shopping
+TRP000392,App Booking,Taxi Stand,FALSE,FALSE,2,Shopping
+TRP000393,Phone Booking,Mobile App,TRUE,TRUE,1,Shopping
+TRP000394,Phone Booking,Taxi Stand,TRUE,TRUE,0,Business
+TRP000395,Street Hail,Mobile App,TRUE,TRUE,2,Tourism
+TRP000396,App Booking,Roadside,TRUE,TRUE,4,Business
+TRP000397,App Booking,Call Center,TRUE,TRUE,1,Airport
+TRP000398,Street Hail,Taxi Stand,FALSE,FALSE,0,Shopping
+TRP000399,Street Hail,Call Center,TRUE,FALSE,3,Medical
+TRP000400,Phone Booking,Taxi Stand,TRUE,TRUE,1,Commute
+TRP000401,Phone Booking,Mobile App,TRUE,TRUE,0,Airport
+TRP000402,Street Hail,Call Center,TRUE,FALSE,3,Commute
+TRP000403,Street Hail,Taxi Stand,TRUE,TRUE,0,Commute
+TRP000404,App Booking,Roadside,TRUE,FALSE,3,Shopping
+TRP000405,Street Hail,Mobile App,FALSE,TRUE,3,Medical
+TRP000406,Street Hail,Call Center,TRUE,FALSE,3,Commute
+TRP000407,App Booking,Taxi Stand,FALSE,FALSE,0,Tourism
+TRP000408,Street Hail,Call Center,TRUE,TRUE,3,Commute
+TRP000409,Phone Booking,Taxi Stand,TRUE,FALSE,1,Airport
+TRP000410,Phone Booking,Mobile App,TRUE,TRUE,4,Medical
+TRP000411,App Booking,Roadside,TRUE,FALSE,4,Medical
+TRP000412,Street Hail,Mobile App,TRUE,TRUE,3,Commute
+TRP000413,Phone Booking,Call Center,TRUE,TRUE,4,Medical
+TRP000414,Phone Booking,Call Center,TRUE,TRUE,4,Airport
+TRP000415,Phone Booking,Taxi Stand,TRUE,FALSE,3,Airport
+TRP000416,Phone Booking,Mobile App,TRUE,TRUE,3,Airport
+TRP000417,Street Hail,Taxi Stand,FALSE,TRUE,1,Tourism
+TRP000418,Street Hail,Mobile App,TRUE,TRUE,2,Shopping
+TRP000419,Street Hail,Call Center,TRUE,FALSE,0,Commute
+TRP000420,Street Hail,Taxi Stand,TRUE,TRUE,3,Medical
+TRP000421,Phone Booking,Taxi Stand,TRUE,FALSE,3,Airport
+TRP000422,App Booking,Mobile App,TRUE,FALSE,4,Commute
+TRP000423,App Booking,Roadside,TRUE,FALSE,1,Commute
+TRP000424,Phone Booking,Mobile App,TRUE,TRUE,4,Shopping
+TRP000425,Phone Booking,Roadside,TRUE,TRUE,3,Tourism
+TRP000426,App Booking,Mobile App,TRUE,FALSE,3,Medical
+TRP000427,App Booking,Call Center,TRUE,TRUE,4,Tourism
+TRP000428,Phone Booking,Taxi Stand,TRUE,TRUE,3,Medical
+TRP000429,Phone Booking,Mobile App,TRUE,FALSE,2,Airport
+TRP000430,Street Hail,Call Center,TRUE,FALSE,0,Airport
+TRP000431,Street Hail,Mobile App,TRUE,TRUE,0,Commute
+TRP000432,App Booking,Taxi Stand,TRUE,FALSE,0,Medical
+TRP000433,Phone Booking,Mobile App,FALSE,TRUE,2,Medical
+TRP000434,App Booking,Roadside,TRUE,FALSE,3,Tourism
+TRP000435,Street Hail,Taxi Stand,TRUE,TRUE,4,Airport
+TRP000436,Street Hail,Roadside,TRUE,TRUE,1,Business
+TRP000437,App Booking,Call Center,TRUE,FALSE,3,Commute
+TRP000438,Street Hail,Call Center,TRUE,TRUE,2,Medical
+TRP000439,Phone Booking,Mobile App,TRUE,TRUE,2,Shopping
+TRP000440,App Booking,Roadside,FALSE,FALSE,0,Shopping
+TRP000441,Phone Booking,Roadside,TRUE,TRUE,3,Business
+TRP000442,Phone Booking,Taxi Stand,TRUE,TRUE,0,Airport
+TRP000443,Street Hail,Roadside,TRUE,TRUE,1,Airport
+TRP000444,Phone Booking,Roadside,TRUE,FALSE,0,Airport
+TRP000445,App Booking,Taxi Stand,TRUE,FALSE,1,Tourism
+TRP000446,Phone Booking,Taxi Stand,TRUE,FALSE,2,Shopping
+TRP000447,Phone Booking,Roadside,TRUE,FALSE,0,Airport
+TRP000448,Phone Booking,Mobile App,TRUE,FALSE,0,Shopping
+TRP000449,Phone Booking,Taxi Stand,TRUE,TRUE,4,Business
+TRP000450,Phone Booking,Taxi Stand,TRUE,TRUE,2,Commute
+TRP000451,Street Hail,Roadside,TRUE,TRUE,4,Tourism
+TRP000452,App Booking,Roadside,TRUE,FALSE,1,Medical
+TRP000453,Street Hail,Taxi Stand,TRUE,TRUE,1,Business
+TRP000454,App Booking,Roadside,TRUE,FALSE,2,Shopping
+TRP000455,App Booking,Taxi Stand,TRUE,TRUE,1,Business
+TRP000456,App Booking,Mobile App,TRUE,FALSE,2,Medical
+TRP000457,App Booking,Mobile App,TRUE,TRUE,1,Tourism
+TRP000458,App Booking,Taxi Stand,TRUE,TRUE,3,Commute
+TRP000459,Phone Booking,Taxi Stand,TRUE,FALSE,0,Medical
+TRP000460,Street Hail,Call Center,FALSE,TRUE,3,Tourism
+TRP000461,Street Hail,Call Center,TRUE,TRUE,2,Shopping
+TRP000462,Phone Booking,Roadside,TRUE,FALSE,2,Medical
+TRP000463,App Booking,Roadside,TRUE,TRUE,3,Business
+TRP000464,Street Hail,Taxi Stand,FALSE,TRUE,0,Airport
+TRP000465,Phone Booking,Taxi Stand,TRUE,FALSE,0,Business
+TRP000466,Phone Booking,Call Center,FALSE,FALSE,4,Shopping
+TRP000467,Street Hail,Call Center,FALSE,FALSE,1,Commute
+TRP000468,Street Hail,Taxi Stand,TRUE,FALSE,4,Medical
+TRP000469,App Booking,Mobile App,TRUE,FALSE,0,Commute
+TRP000470,App Booking,Mobile App,FALSE,TRUE,3,Shopping
+TRP000471,Street Hail,Roadside,TRUE,FALSE,1,Medical
+TRP000472,App Booking,Taxi Stand,TRUE,FALSE,3,Tourism
+TRP000473,Phone Booking,Taxi Stand,TRUE,TRUE,4,Tourism
+TRP000474,App Booking,Roadside,TRUE,TRUE,2,Business
+TRP000475,App Booking,Call Center,TRUE,TRUE,3,Business
+TRP000476,Phone Booking,Call Center,TRUE,TRUE,4,Shopping
+TRP000477,App Booking,Mobile App,TRUE,TRUE,4,Tourism
+TRP000478,Phone Booking,Taxi Stand,TRUE,FALSE,4,Medical
+TRP000479,App Booking,Call Center,TRUE,TRUE,2,Tourism
+TRP000480,Street Hail,Mobile App,TRUE,FALSE,2,Business
+TRP000481,App Booking,Mobile App,TRUE,TRUE,2,Shopping
+TRP000482,Street Hail,Mobile App,TRUE,FALSE,1,Tourism
+TRP000483,Street Hail,Call Center,TRUE,TRUE,2,Shopping
+TRP000484,Street Hail,Call Center,TRUE,FALSE,2,Tourism
+TRP000485,Street Hail,Taxi Stand,FALSE,FALSE,2,Commute
+TRP000486,Street Hail,Taxi Stand,TRUE,FALSE,3,Tourism
+TRP000487,Phone Booking,Mobile App,TRUE,FALSE,2,Business
+TRP000488,Phone Booking,Mobile App,FALSE,FALSE,1,Medical
+TRP000489,Phone Booking,Call Center,FALSE,FALSE,4,Business
+TRP000490,Street Hail,Call Center,TRUE,FALSE,3,Business
+TRP000491,App Booking,Taxi Stand,TRUE,FALSE,0,Business
+TRP000492,Phone Booking,Taxi Stand,TRUE,FALSE,2,Shopping
+TRP000493,App Booking,Roadside,TRUE,FALSE,4,Airport
+TRP000494,App Booking,Taxi Stand,TRUE,TRUE,4,Airport
+TRP000495,Street Hail,Call Center,TRUE,FALSE,3,Commute
+TRP000496,Street Hail,Mobile App,TRUE,FALSE,0,Business
+TRP000497,Street Hail,Roadside,TRUE,TRUE,1,Airport
+TRP000498,Phone Booking,Taxi Stand,TRUE,FALSE,4,Commute
+TRP000499,Street Hail,Taxi Stand,FALSE,FALSE,4,Shopping
+TRP000500,Phone Booking,Call Center,TRUE,TRUE,4,Business
+TRP000501,Phone Booking,Roadside,FALSE,TRUE,4,Medical
+TRP000502,Phone Booking,Taxi Stand,FALSE,FALSE,3,Shopping
+TRP000503,Phone Booking,Mobile App,TRUE,TRUE,0,Commute
+TRP000504,Street Hail,Call Center,TRUE,FALSE,4,Shopping
+TRP000505,Phone Booking,Roadside,TRUE,FALSE,1,Medical
+TRP000506,Street Hail,Taxi Stand,TRUE,FALSE,1,Shopping
+TRP000507,Street Hail,Taxi Stand,TRUE,TRUE,2,Commute
+TRP000508,Phone Booking,Roadside,TRUE,FALSE,4,Medical
+TRP000509,Street Hail,Call Center,FALSE,FALSE,4,Medical
+TRP000510,App Booking,Roadside,TRUE,TRUE,4,Shopping
+TRP000511,Street Hail,Roadside,TRUE,FALSE,4,Medical
+TRP000512,Street Hail,Call Center,TRUE,FALSE,4,Shopping
+TRP000513,Phone Booking,Taxi Stand,TRUE,FALSE,1,Business
+TRP000514,Phone Booking,Mobile App,FALSE,FALSE,0,Medical
+TRP000515,Street Hail,Call Center,TRUE,FALSE,0,Shopping
+TRP000516,Phone Booking,Mobile App,TRUE,FALSE,2,Business
+TRP000517,App Booking,Taxi Stand,TRUE,TRUE,1,Medical
+TRP000518,App Booking,Roadside,TRUE,FALSE,4,Business
+TRP000519,Phone Booking,Mobile App,TRUE,FALSE,0,Tourism
+TRP000520,Street Hail,Taxi Stand,TRUE,TRUE,3,Medical
+TRP000521,App Booking,Taxi Stand,TRUE,FALSE,3,Tourism
+TRP000522,App Booking,Roadside,FALSE,FALSE,3,Commute
+TRP000523,Street Hail,Roadside,FALSE,TRUE,4,Commute
+TRP000524,Phone Booking,Taxi Stand,TRUE,TRUE,4,Shopping
+TRP000525,App Booking,Taxi Stand,TRUE,TRUE,2,Airport
+TRP000526,Street Hail,Mobile App,TRUE,TRUE,2,Tourism
+TRP000527,Street Hail,Taxi Stand,TRUE,TRUE,2,Tourism
+TRP000528,App Booking,Taxi Stand,TRUE,TRUE,3,Commute
+TRP000529,Phone Booking,Mobile App,TRUE,TRUE,4,Tourism
+TRP000530,App Booking,Call Center,TRUE,FALSE,3,Airport
+TRP000531,Street Hail,Mobile App,TRUE,FALSE,2,Business
+TRP000532,App Booking,Mobile App,TRUE,FALSE,4,Business
+TRP000533,Phone Booking,Roadside,TRUE,TRUE,1,Airport
+TRP000534,Street Hail,Mobile App,TRUE,FALSE,0,Tourism
+TRP000535,Phone Booking,Taxi Stand,TRUE,TRUE,0,Tourism
+TRP000536,App Booking,Taxi Stand,FALSE,FALSE,2,Tourism
+TRP000537,App Booking,Taxi Stand,TRUE,FALSE,3,Shopping
+TRP000538,Phone Booking,Call Center,TRUE,FALSE,1,Medical
+TRP000539,App Booking,Taxi Stand,TRUE,FALSE,4,Airport
+TRP000540,Phone Booking,Call Center,TRUE,TRUE,3,Airport
+TRP000541,App Booking,Taxi Stand,TRUE,TRUE,2,Airport
+TRP000542,Phone Booking,Mobile App,TRUE,FALSE,3,Airport
+TRP000543,Phone Booking,Roadside,TRUE,TRUE,2,Airport
+TRP000544,Street Hail,Taxi Stand,TRUE,TRUE,0,Tourism
+TRP000545,Street Hail,Call Center,TRUE,FALSE,0,Shopping
+TRP000546,Phone Booking,Call Center,TRUE,TRUE,3,Commute
+TRP000547,App Booking,Roadside,TRUE,TRUE,1,Tourism
+TRP000548,App Booking,Taxi Stand,TRUE,TRUE,4,Tourism
+TRP000549,App Booking,Mobile App,TRUE,TRUE,2,Medical
+TRP000550,Phone Booking,Taxi Stand,TRUE,FALSE,4,Commute
+TRP000551,Phone Booking,Taxi Stand,TRUE,FALSE,0,Airport
+TRP000552,Phone Booking,Roadside,TRUE,TRUE,1,Commute
+TRP000553,Phone Booking,Taxi Stand,TRUE,FALSE,1,Shopping
+TRP000554,Street Hail,Mobile App,TRUE,FALSE,4,Business
+TRP000555,Phone Booking,Call Center,TRUE,FALSE,0,Tourism
+TRP000556,App Booking,Roadside,FALSE,TRUE,4,Commute
+TRP000557,Street Hail,Mobile App,TRUE,TRUE,3,Medical
+TRP000558,App Booking,Call Center,TRUE,FALSE,1,Shopping
+TRP000559,Phone Booking,Roadside,TRUE,FALSE,1,Business
+TRP000560,Street Hail,Roadside,TRUE,TRUE,3,Shopping
+TRP000561,Phone Booking,Call Center,TRUE,FALSE,0,Airport
+TRP000562,Street Hail,Call Center,TRUE,TRUE,1,Business
+TRP000563,App Booking,Mobile App,TRUE,FALSE,2,Medical
+TRP000564,Phone Booking,Taxi Stand,TRUE,TRUE,2,Business
+TRP000565,Phone Booking,Taxi Stand,TRUE,TRUE,0,Medical
+TRP000566,Street Hail,Taxi Stand,TRUE,TRUE,3,Airport
+TRP000567,Street Hail,Taxi Stand,TRUE,TRUE,4,Medical
+TRP000568,Phone Booking,Taxi Stand,TRUE,FALSE,0,Shopping
+TRP000569,Street Hail,Mobile App,TRUE,TRUE,4,Commute
+TRP000570,Phone Booking,Roadside,TRUE,FALSE,0,Shopping
+TRP000571,Street Hail,Mobile App,TRUE,TRUE,2,Tourism
+TRP000572,App Booking,Mobile App,FALSE,TRUE,3,Shopping
+TRP000573,Street Hail,Mobile App,TRUE,FALSE,2,Business
+TRP000574,App Booking,Roadside,TRUE,FALSE,3,Airport
+TRP000575,Street Hail,Mobile App,TRUE,FALSE,4,Tourism
+TRP000576,Street Hail,Mobile App,TRUE,TRUE,0,Tourism
+TRP000577,Phone Booking,Roadside,TRUE,TRUE,1,Tourism
+TRP000578,Street Hail,Mobile App,TRUE,FALSE,1,Commute
+TRP000579,Street Hail,Taxi Stand,TRUE,TRUE,3,Medical
+TRP000580,App Booking,Call Center,TRUE,FALSE,3,Business
+TRP000581,Street Hail,Mobile App,TRUE,TRUE,2,Airport
+TRP000582,Phone Booking,Call Center,TRUE,TRUE,1,Commute
+TRP000583,App Booking,Mobile App,TRUE,TRUE,2,Shopping
+TRP000584,Phone Booking,Mobile App,TRUE,FALSE,4,Airport
+TRP000585,Phone Booking,Taxi Stand,TRUE,TRUE,1,Tourism
+TRP000586,Phone Booking,Roadside,TRUE,FALSE,4,Airport
+TRP000587,Phone Booking,Call Center,TRUE,FALSE,0,Airport
+TRP000588,App Booking,Roadside,TRUE,TRUE,2,Shopping
+TRP000589,Street Hail,Taxi Stand,TRUE,FALSE,3,Medical
+TRP000590,Phone Booking,Taxi Stand,TRUE,FALSE,1,Business
+TRP000591,App Booking,Call Center,TRUE,TRUE,2,Tourism
+TRP000592,Phone Booking,Roadside,TRUE,FALSE,3,Medical
+TRP000593,Street Hail,Taxi Stand,TRUE,FALSE,0,Commute
+TRP000594,App Booking,Mobile App,TRUE,TRUE,1,Tourism
+TRP000595,App Booking,Mobile App,TRUE,TRUE,4,Business
+TRP000596,Street Hail,Mobile App,TRUE,TRUE,0,Commute
+TRP000597,App Booking,Roadside,TRUE,FALSE,3,Shopping
+TRP000598,Street Hail,Mobile App,TRUE,FALSE,1,Medical
+TRP000599,App Booking,Mobile App,FALSE,TRUE,1,Tourism
+TRP000600,App Booking,Taxi Stand,TRUE,FALSE,0,Airport
+TRP000601,Street Hail,Taxi Stand,TRUE,TRUE,1,Business
+TRP000602,Street Hail,Mobile App,TRUE,TRUE,3,Tourism
+TRP000603,App Booking,Mobile App,TRUE,TRUE,0,Airport
+TRP000604,App Booking,Taxi Stand,TRUE,FALSE,4,Tourism
+TRP000605,Street Hail,Call Center,TRUE,FALSE,0,Commute
+TRP000606,Street Hail,Roadside,TRUE,TRUE,0,Airport
+TRP000607,App Booking,Roadside,TRUE,TRUE,4,Airport
+TRP000608,App Booking,Taxi Stand,TRUE,FALSE,3,Tourism
+TRP000609,App Booking,Roadside,TRUE,TRUE,2,Shopping
+TRP000610,Street Hail,Taxi Stand,TRUE,FALSE,2,Shopping
+TRP000611,App Booking,Taxi Stand,TRUE,TRUE,4,Medical
+TRP000612,Phone Booking,Taxi Stand,TRUE,TRUE,3,Commute
+TRP000613,Street Hail,Taxi Stand,TRUE,FALSE,1,Shopping
+TRP000614,App Booking,Call Center,TRUE,FALSE,4,Tourism
+TRP000615,Street Hail,Mobile App,TRUE,FALSE,2,Shopping
+TRP000616,Phone Booking,Mobile App,TRUE,FALSE,3,Medical
+TRP000617,Street Hail,Call Center,FALSE,FALSE,0,Business
+TRP000618,App Booking,Roadside,FALSE,TRUE,3,Medical
+TRP000619,Phone Booking,Roadside,TRUE,TRUE,3,Airport
+TRP000620,Phone Booking,Mobile App,TRUE,FALSE,2,Airport
+TRP000621,App Booking,Roadside,FALSE,FALSE,2,Shopping
+TRP000622,App Booking,Mobile App,FALSE,TRUE,1,Shopping
+TRP000623,App Booking,Mobile App,TRUE,TRUE,1,Medical
+TRP000624,Street Hail,Call Center,TRUE,FALSE,4,Medical
+TRP000625,Street Hail,Roadside,TRUE,FALSE,0,Tourism
+TRP000626,Street Hail,Call Center,FALSE,TRUE,1,Commute
+TRP000627,App Booking,Mobile App,TRUE,FALSE,2,Tourism
+TRP000628,App Booking,Mobile App,TRUE,TRUE,3,Airport
+TRP000629,Street Hail,Mobile App,TRUE,TRUE,4,Tourism
+TRP000630,Phone Booking,Taxi Stand,TRUE,FALSE,1,Medical
+TRP000631,Street Hail,Taxi Stand,TRUE,TRUE,3,Tourism
+TRP000632,Phone Booking,Taxi Stand,TRUE,TRUE,3,Business
+TRP000633,App Booking,Call Center,TRUE,TRUE,1,Commute
+TRP000634,App Booking,Mobile App,TRUE,FALSE,0,Medical
+TRP000635,Street Hail,Roadside,TRUE,TRUE,0,Shopping
+TRP000636,Street Hail,Call Center,TRUE,FALSE,4,Tourism
+TRP000637,App Booking,Call Center,TRUE,TRUE,0,Medical
+TRP000638,Street Hail,Call Center,TRUE,TRUE,4,Shopping
+TRP000639,App Booking,Roadside,TRUE,TRUE,2,Shopping
+TRP000640,App Booking,Mobile App,TRUE,TRUE,1,Airport
+TRP000641,Phone Booking,Taxi Stand,TRUE,TRUE,3,Airport
+TRP000642,Street Hail,Mobile App,TRUE,FALSE,4,Medical
+TRP000643,App Booking,Mobile App,TRUE,FALSE,0,Medical
+TRP000644,Street Hail,Call Center,TRUE,TRUE,4,Business
+TRP000645,Phone Booking,Call Center,TRUE,FALSE,4,Commute
+TRP000646,Phone Booking,Call Center,TRUE,FALSE,0,Commute
+TRP000647,Street Hail,Taxi Stand,TRUE,TRUE,0,Medical
+TRP000648,Street Hail,Taxi Stand,TRUE,FALSE,1,Airport
+TRP000649,App Booking,Taxi Stand,TRUE,FALSE,3,Tourism
+TRP000650,Phone Booking,Mobile App,TRUE,FALSE,1,Business
+TRP000651,Phone Booking,Call Center,TRUE,FALSE,1,Commute
+TRP000652,Phone Booking,Roadside,TRUE,TRUE,0,Medical
+TRP000653,Street Hail,Mobile App,TRUE,FALSE,0,Airport
+TRP000654,App Booking,Taxi Stand,TRUE,TRUE,3,Airport
+TRP000655,Street Hail,Roadside,TRUE,TRUE,4,Airport
+TRP000656,Street Hail,Roadside,TRUE,FALSE,1,Tourism
+TRP000657,Street Hail,Call Center,TRUE,TRUE,3,Shopping
+TRP000658,App Booking,Roadside,TRUE,FALSE,1,Tourism
+TRP000659,Street Hail,Taxi Stand,TRUE,TRUE,4,Airport
+TRP000660,Phone Booking,Call Center,TRUE,FALSE,1,Medical
+TRP000661,Phone Booking,Roadside,TRUE,FALSE,2,Business
+TRP000662,Phone Booking,Call Center,TRUE,TRUE,3,Tourism
+TRP000663,App Booking,Roadside,TRUE,FALSE,0,Medical
+TRP000664,Street Hail,Mobile App,TRUE,FALSE,1,Airport
+TRP000665,App Booking,Mobile App,TRUE,FALSE,3,Business
+TRP000666,Street Hail,Taxi Stand,TRUE,FALSE,3,Commute
+TRP000667,Phone Booking,Mobile App,TRUE,TRUE,1,Commute
+TRP000668,Street Hail,Mobile App,TRUE,TRUE,0,Medical
+TRP000669,Street Hail,Mobile App,TRUE,TRUE,0,Business
+TRP000670,Street Hail,Roadside,TRUE,FALSE,1,Medical
+TRP000671,App Booking,Roadside,TRUE,TRUE,3,Business
+TRP000672,Street Hail,Call Center,TRUE,FALSE,0,Business
+TRP000673,Street Hail,Roadside,TRUE,FALSE,1,Medical
+TRP000674,Street Hail,Mobile App,TRUE,FALSE,1,Business
+TRP000675,App Booking,Roadside,TRUE,TRUE,1,Tourism
+TRP000676,App Booking,Taxi Stand,FALSE,TRUE,3,Airport
+TRP000677,App Booking,Call Center,TRUE,TRUE,0,Business
+TRP000678,Street Hail,Call Center,TRUE,TRUE,3,Tourism
+TRP000679,Phone Booking,Roadside,TRUE,FALSE,2,Business
+TRP000680,Phone Booking,Mobile App,TRUE,TRUE,0,Tourism
+TRP000681,Phone Booking,Call Center,TRUE,TRUE,3,Medical
+TRP000682,Street Hail,Taxi Stand,TRUE,TRUE,0,Commute
+TRP000683,Phone Booking,Taxi Stand,TRUE,TRUE,2,Shopping
+TRP000684,Phone Booking,Call Center,TRUE,FALSE,4,Business
+TRP000685,Phone Booking,Mobile App,TRUE,TRUE,1,Shopping
+TRP000686,Street Hail,Mobile App,TRUE,TRUE,3,Business
+TRP000687,Phone Booking,Roadside,TRUE,TRUE,2,Medical
+TRP000688,Phone Booking,Roadside,TRUE,FALSE,2,Medical
+TRP000689,Street Hail,Call Center,TRUE,TRUE,0,Tourism
+TRP000690,App Booking,Roadside,TRUE,TRUE,0,Business
+TRP000691,Phone Booking,Roadside,TRUE,TRUE,1,Medical
+TRP000692,App Booking,Roadside,TRUE,FALSE,0,Medical
+TRP000693,Phone Booking,Taxi Stand,TRUE,FALSE,3,Business
+TRP000694,Street Hail,Roadside,TRUE,TRUE,3,Tourism
+TRP000695,App Booking,Call Center,TRUE,TRUE,3,Tourism
+TRP000696,App Booking,Mobile App,TRUE,FALSE,4,Tourism
+TRP000697,App Booking,Roadside,TRUE,FALSE,3,Tourism
+TRP000698,App Booking,Mobile App,TRUE,FALSE,0,Commute
+TRP000699,Phone Booking,Roadside,TRUE,FALSE,0,Business
+TRP000700,Phone Booking,Call Center,TRUE,FALSE,3,Commute
+TRP000701,App Booking,Taxi Stand,TRUE,TRUE,2,Medical
+TRP000702,Phone Booking,Call Center,FALSE,TRUE,2,Commute
+TRP000703,App Booking,Taxi Stand,TRUE,TRUE,2,Tourism
+TRP000704,App Booking,Roadside,TRUE,TRUE,1,Medical
+TRP000705,Street Hail,Roadside,TRUE,FALSE,4,Commute
+TRP000706,App Booking,Taxi Stand,FALSE,FALSE,3,Commute
+TRP000707,Phone Booking,Call Center,TRUE,FALSE,1,Business
+TRP000708,App Booking,Call Center,TRUE,FALSE,2,Commute
+TRP000709,Street Hail,Taxi Stand,TRUE,FALSE,3,Medical
+TRP000710,Phone Booking,Roadside,TRUE,TRUE,1,Tourism
+TRP000711,Street Hail,Taxi Stand,TRUE,TRUE,0,Business
+TRP000712,Street Hail,Roadside,TRUE,TRUE,2,Commute
+TRP000713,App Booking,Taxi Stand,TRUE,TRUE,1,Business
+TRP000714,Street Hail,Roadside,TRUE,TRUE,0,Shopping
+TRP000715,Street Hail,Taxi Stand,TRUE,FALSE,2,Business
+TRP000716,Phone Booking,Mobile App,TRUE,FALSE,4,Tourism
+TRP000717,Street Hail,Roadside,TRUE,FALSE,2,Shopping
+TRP000718,App Booking,Call Center,TRUE,FALSE,4,Shopping
+TRP000719,App Booking,Taxi Stand,TRUE,FALSE,4,Business
+TRP000720,App Booking,Call Center,TRUE,TRUE,4,Medical
+TRP000721,Street Hail,Taxi Stand,TRUE,TRUE,3,Tourism
+TRP000722,Phone Booking,Call Center,TRUE,TRUE,3,Medical
+TRP000723,App Booking,Call Center,TRUE,FALSE,4,Tourism
+TRP000724,Street Hail,Taxi Stand,TRUE,FALSE,0,Tourism
+TRP000725,App Booking,Taxi Stand,TRUE,FALSE,4,Medical
+TRP000726,App Booking,Call Center,TRUE,FALSE,1,Airport
+TRP000727,Phone Booking,Call Center,TRUE,TRUE,4,Shopping
+TRP000728,App Booking,Call Center,TRUE,FALSE,3,Business
+TRP000729,Phone Booking,Roadside,TRUE,TRUE,3,Medical
+TRP000730,Street Hail,Roadside,TRUE,FALSE,1,Medical
+TRP000731,App Booking,Mobile App,TRUE,TRUE,1,Business
+TRP000732,Street Hail,Roadside,TRUE,FALSE,2,Shopping
+TRP000733,Street Hail,Roadside,TRUE,FALSE,0,Business
+TRP000734,Street Hail,Taxi Stand,TRUE,TRUE,0,Tourism
+TRP000735,App Booking,Mobile App,TRUE,TRUE,0,Airport
+TRP000736,Phone Booking,Mobile App,TRUE,FALSE,3,Tourism
+TRP000737,App Booking,Roadside,TRUE,TRUE,0,Airport
+TRP000738,Street Hail,Taxi Stand,TRUE,FALSE,2,Business
+TRP000739,Phone Booking,Taxi Stand,TRUE,FALSE,2,Tourism
+TRP000740,Street Hail,Mobile App,TRUE,TRUE,0,Shopping
+TRP000741,Phone Booking,Taxi Stand,FALSE,FALSE,1,Tourism
+TRP000742,App Booking,Call Center,TRUE,FALSE,2,Medical
+TRP000743,Phone Booking,Roadside,TRUE,TRUE,1,Airport
+TRP000744,App Booking,Call Center,TRUE,FALSE,3,Airport
+TRP000745,Street Hail,Mobile App,TRUE,FALSE,2,Shopping
+TRP000746,Phone Booking,Mobile App,TRUE,FALSE,1,Airport
+TRP000747,Street Hail,Taxi Stand,TRUE,FALSE,0,Airport
+TRP000748,Phone Booking,Taxi Stand,TRUE,TRUE,3,Shopping
+TRP000749,App Booking,Mobile App,TRUE,TRUE,4,Tourism
+TRP000750,Phone Booking,Mobile App,TRUE,TRUE,4,Business
+TRP000751,Phone Booking,Call Center,TRUE,FALSE,0,Tourism
+TRP000752,App Booking,Call Center,TRUE,TRUE,3,Medical
+TRP000753,App Booking,Taxi Stand,TRUE,TRUE,3,Medical
+TRP000754,App Booking,Call Center,TRUE,TRUE,3,Airport
+TRP000755,Phone Booking,Taxi Stand,TRUE,FALSE,3,Medical
+TRP000756,Street Hail,Taxi Stand,TRUE,TRUE,4,Business
+TRP000757,Phone Booking,Roadside,TRUE,TRUE,1,Airport
+TRP000758,Phone Booking,Taxi Stand,TRUE,FALSE,3,Medical
+TRP000759,Street Hail,Call Center,TRUE,FALSE,1,Commute
+TRP000760,App Booking,Mobile App,FALSE,FALSE,3,Commute
+TRP000761,Phone Booking,Mobile App,TRUE,FALSE,2,Commute
+TRP000762,Street Hail,Call Center,TRUE,FALSE,2,Commute
+TRP000763,App Booking,Mobile App,TRUE,FALSE,2,Tourism
+TRP000764,App Booking,Taxi Stand,TRUE,TRUE,3,Commute
+TRP000765,Phone Booking,Mobile App,TRUE,TRUE,1,Airport
+TRP000766,App Booking,Call Center,TRUE,FALSE,4,Shopping
+TRP000767,App Booking,Mobile App,TRUE,FALSE,0,Tourism
+TRP000768,Street Hail,Taxi Stand,TRUE,TRUE,4,Shopping
+TRP000769,Street Hail,Taxi Stand,TRUE,FALSE,3,Airport
+TRP000770,App Booking,Call Center,TRUE,FALSE,2,Airport
+TRP000771,Street Hail,Call Center,TRUE,TRUE,2,Business
+TRP000772,App Booking,Call Center,TRUE,FALSE,1,Tourism
+TRP000773,Phone Booking,Roadside,TRUE,FALSE,3,Shopping
+TRP000774,Street Hail,Roadside,TRUE,TRUE,4,Commute
+TRP000775,App Booking,Taxi Stand,TRUE,TRUE,3,Airport
+TRP000776,App Booking,Roadside,TRUE,TRUE,3,Commute
+TRP000777,Street Hail,Roadside,TRUE,TRUE,2,Shopping
+TRP000778,Street Hail,Mobile App,TRUE,TRUE,4,Tourism
+TRP000779,Phone Booking,Roadside,TRUE,FALSE,0,Medical
+TRP000780,App Booking,Mobile App,FALSE,FALSE,2,Medical
+TRP000781,Phone Booking,Call Center,TRUE,FALSE,4,Airport
+TRP000782,Phone Booking,Mobile App,FALSE,FALSE,1,Business
+TRP000783,Phone Booking,Mobile App,TRUE,FALSE,2,Commute
+TRP000784,Street Hail,Call Center,TRUE,TRUE,1,Airport
+TRP000785,Phone Booking,Call Center,TRUE,FALSE,2,Business
+TRP000786,Street Hail,Taxi Stand,TRUE,FALSE,3,Commute
+TRP000787,Street Hail,Taxi Stand,TRUE,FALSE,4,Shopping
+TRP000788,Phone Booking,Taxi Stand,TRUE,FALSE,1,Medical
+TRP000789,Phone Booking,Taxi Stand,TRUE,FALSE,2,Business
+TRP000790,App Booking,Mobile App,TRUE,TRUE,1,Commute
+TRP000791,Phone Booking,Mobile App,TRUE,FALSE,2,Airport
+TRP000792,App Booking,Taxi Stand,TRUE,FALSE,2,Commute
+TRP000793,Phone Booking,Roadside,TRUE,FALSE,0,Airport
+TRP000794,Phone Booking,Taxi Stand,TRUE,FALSE,0,Medical
+TRP000795,Phone Booking,Roadside,TRUE,FALSE,0,Medical
+TRP000796,Phone Booking,Call Center,TRUE,FALSE,1,Commute
+TRP000797,App Booking,Mobile App,TRUE,TRUE,3,Commute
+TRP000798,App Booking,Mobile App,TRUE,FALSE,2,Airport
+TRP000799,Phone Booking,Roadside,TRUE,TRUE,4,Airport
+TRP000800,Phone Booking,Taxi Stand,TRUE,TRUE,0,Business
+TRP000801,App Booking,Mobile App,TRUE,FALSE,1,Business
+TRP000802,Street Hail,Roadside,TRUE,FALSE,1,Business
+TRP000803,Street Hail,Call Center,TRUE,FALSE,1,Commute
+TRP000804,Street Hail,Call Center,TRUE,TRUE,4,Tourism
+TRP000805,App Booking,Mobile App,TRUE,FALSE,4,Tourism
+TRP000806,App Booking,Taxi Stand,TRUE,FALSE,0,Tourism
+TRP000807,Street Hail,Roadside,TRUE,FALSE,4,Tourism
+TRP000808,Street Hail,Mobile App,TRUE,TRUE,0,Business
+TRP000809,Phone Booking,Call Center,FALSE,TRUE,4,Commute
+TRP000810,App Booking,Taxi Stand,TRUE,FALSE,4,Tourism
+TRP000811,App Booking,Roadside,TRUE,TRUE,4,Medical
+TRP000812,Street Hail,Mobile App,TRUE,FALSE,0,Shopping
+TRP000813,Street Hail,Roadside,TRUE,TRUE,2,Medical
+TRP000814,App Booking,Taxi Stand,TRUE,FALSE,0,Commute
+TRP000815,Phone Booking,Taxi Stand,TRUE,TRUE,2,Commute
+TRP000816,Street Hail,Call Center,TRUE,FALSE,1,Shopping
+TRP000817,App Booking,Taxi Stand,TRUE,FALSE,1,Airport
+TRP000818,App Booking,Mobile App,TRUE,TRUE,0,Airport
+TRP000819,Phone Booking,Roadside,TRUE,TRUE,2,Airport
+TRP000820,Phone Booking,Taxi Stand,TRUE,TRUE,2,Business
+TRP000821,Street Hail,Taxi Stand,TRUE,TRUE,2,Airport
+TRP000822,Street Hail,Mobile App,TRUE,TRUE,1,Business
+TRP000823,Street Hail,Roadside,TRUE,FALSE,0,Business
+TRP000824,App Booking,Roadside,TRUE,FALSE,3,Airport
+TRP000825,Street Hail,Call Center,TRUE,TRUE,2,Airport
+TRP000826,App Booking,Call Center,TRUE,FALSE,2,Shopping
+TRP000827,Street Hail,Roadside,FALSE,FALSE,3,Tourism
+TRP000828,Phone Booking,Mobile App,TRUE,TRUE,0,Shopping
+TRP000829,Phone Booking,Mobile App,TRUE,FALSE,2,Business
+TRP000830,App Booking,Call Center,TRUE,FALSE,0,Shopping
+TRP000831,Phone Booking,Taxi Stand,TRUE,TRUE,2,Business
+TRP000832,App Booking,Mobile App,TRUE,TRUE,4,Commute
+TRP000833,App Booking,Taxi Stand,TRUE,FALSE,2,Business
+TRP000834,Phone Booking,Mobile App,TRUE,TRUE,4,Business
+TRP000835,App Booking,Roadside,TRUE,FALSE,0,Shopping
+TRP000836,Phone Booking,Call Center,TRUE,TRUE,2,Tourism
+TRP000837,Street Hail,Taxi Stand,TRUE,TRUE,1,Commute
+TRP000838,Street Hail,Taxi Stand,TRUE,TRUE,1,Medical
+TRP000839,Phone Booking,Roadside,TRUE,TRUE,3,Medical
+TRP000840,Phone Booking,Mobile App,FALSE,FALSE,1,Tourism
+TRP000841,Phone Booking,Taxi Stand,TRUE,TRUE,4,Medical
+TRP000842,Phone Booking,Mobile App,TRUE,TRUE,1,Commute
+TRP000843,Street Hail,Roadside,TRUE,FALSE,1,Airport
+TRP000844,App Booking,Call Center,FALSE,FALSE,1,Commute
+TRP000845,App Booking,Taxi Stand,TRUE,FALSE,2,Shopping
+TRP000846,Street Hail,Mobile App,TRUE,FALSE,3,Business
+TRP000847,App Booking,Taxi Stand,TRUE,TRUE,0,Business
+TRP000848,Street Hail,Mobile App,TRUE,FALSE,3,Shopping
+TRP000849,App Booking,Mobile App,TRUE,TRUE,4,Shopping
+TRP000850,Phone Booking,Mobile App,TRUE,FALSE,2,Business
+TRP000851,Phone Booking,Roadside,TRUE,TRUE,2,Tourism
+TRP000852,Phone Booking,Call Center,FALSE,FALSE,1,Airport
+TRP000853,Street Hail,Taxi Stand,TRUE,TRUE,1,Airport
+TRP000854,Street Hail,Call Center,TRUE,TRUE,4,Airport
+TRP000855,App Booking,Mobile App,TRUE,FALSE,2,Shopping
+TRP000856,App Booking,Mobile App,FALSE,TRUE,0,Business
+TRP000857,App Booking,Call Center,TRUE,TRUE,3,Tourism
+TRP000858,Street Hail,Call Center,TRUE,TRUE,2,Business
+TRP000859,App Booking,Taxi Stand,TRUE,TRUE,0,Business
+TRP000860,Phone Booking,Mobile App,TRUE,FALSE,0,Tourism
+TRP000861,App Booking,Call Center,TRUE,TRUE,3,Commute
+TRP000862,Phone Booking,Roadside,TRUE,TRUE,0,Tourism
+TRP000863,Street Hail,Mobile App,TRUE,FALSE,4,Commute
+TRP000864,Phone Booking,Mobile App,TRUE,FALSE,0,Medical
+TRP000865,Phone Booking,Taxi Stand,TRUE,FALSE,4,Commute
+TRP000866,Phone Booking,Roadside,TRUE,TRUE,0,Airport
+TRP000867,Street Hail,Taxi Stand,TRUE,TRUE,1,Airport
+TRP000868,Street Hail,Roadside,TRUE,FALSE,0,Tourism
+TRP000869,Street Hail,Taxi Stand,TRUE,TRUE,4,Airport
+TRP000870,Street Hail,Roadside,TRUE,FALSE,0,Airport
+TRP000871,App Booking,Roadside,TRUE,TRUE,0,Medical
+TRP000872,Street Hail,Roadside,TRUE,FALSE,0,Airport
+TRP000873,Phone Booking,Call Center,TRUE,TRUE,4,Shopping
+TRP000874,Street Hail,Mobile App,TRUE,FALSE,0,Shopping
+TRP000875,App Booking,Roadside,TRUE,TRUE,3,Shopping
+TRP000876,App Booking,Call Center,FALSE,FALSE,3,Commute
+TRP000877,App Booking,Call Center,TRUE,TRUE,4,Tourism
+TRP000878,Phone Booking,Taxi Stand,TRUE,TRUE,1,Tourism
+TRP000879,Street Hail,Mobile App,TRUE,TRUE,3,Business
+TRP000880,Street Hail,Mobile App,FALSE,FALSE,2,Medical
+TRP000881,Street Hail,Taxi Stand,TRUE,TRUE,3,Shopping
+TRP000882,Phone Booking,Mobile App,TRUE,TRUE,2,Shopping
+TRP000883,Phone Booking,Taxi Stand,TRUE,TRUE,4,Airport
+TRP000884,App Booking,Call Center,TRUE,FALSE,1,Shopping
+TRP000885,App Booking,Call Center,TRUE,TRUE,2,Airport
+TRP000886,Street Hail,Roadside,TRUE,FALSE,2,Airport
+TRP000887,Phone Booking,Taxi Stand,TRUE,TRUE,3,Business
+TRP000888,Phone Booking,Call Center,TRUE,FALSE,2,Commute
+TRP000889,Street Hail,Call Center,TRUE,FALSE,4,Airport
+TRP000890,Street Hail,Taxi Stand,TRUE,TRUE,4,Airport
+TRP000891,App Booking,Call Center,TRUE,FALSE,4,Tourism
+TRP000892,App Booking,Mobile App,TRUE,FALSE,3,Business
+TRP000893,App Booking,Call Center,TRUE,TRUE,1,Airport
+TRP000894,Street Hail,Taxi Stand,TRUE,FALSE,3,Medical
+TRP000895,Street Hail,Mobile App,TRUE,FALSE,4,Commute
+TRP000896,App Booking,Mobile App,TRUE,FALSE,3,Medical
+TRP000897,App Booking,Call Center,TRUE,FALSE,4,Shopping
+TRP000898,Phone Booking,Roadside,FALSE,TRUE,0,Commute
+TRP000899,Phone Booking,Mobile App,TRUE,FALSE,0,Shopping
+TRP000900,App Booking,Taxi Stand,TRUE,FALSE,2,Tourism
+TRP000901,App Booking,Roadside,TRUE,TRUE,1,Airport
+TRP000902,Phone Booking,Roadside,TRUE,TRUE,0,Business
+TRP000903,App Booking,Mobile App,TRUE,FALSE,4,Medical
+TRP000904,Phone Booking,Call Center,TRUE,TRUE,3,Shopping
+TRP000905,Phone Booking,Roadside,FALSE,TRUE,3,Airport
+TRP000906,Phone Booking,Call Center,TRUE,TRUE,2,Medical
+TRP000907,Street Hail,Mobile App,FALSE,TRUE,3,Medical
+TRP000908,Street Hail,Taxi Stand,TRUE,TRUE,0,Tourism
+TRP000909,App Booking,Roadside,TRUE,TRUE,3,Tourism
+TRP000910,Phone Booking,Taxi Stand,TRUE,TRUE,0,Shopping
+TRP000911,Street Hail,Call Center,TRUE,TRUE,0,Airport
+TRP000912,App Booking,Call Center,TRUE,TRUE,1,Business
+TRP000913,App Booking,Taxi Stand,TRUE,FALSE,2,Shopping
+TRP000914,App Booking,Mobile App,TRUE,FALSE,4,Medical
+TRP000915,App Booking,Mobile App,FALSE,FALSE,0,Medical
+TRP000916,App Booking,Roadside,TRUE,FALSE,2,Commute
+TRP000917,Phone Booking,Roadside,TRUE,FALSE,4,Airport
+TRP000918,App Booking,Mobile App,TRUE,TRUE,3,Commute
+TRP000919,Phone Booking,Mobile App,TRUE,TRUE,2,Tourism
+TRP000920,Street Hail,Taxi Stand,TRUE,FALSE,2,Business
+TRP000921,App Booking,Call Center,TRUE,FALSE,2,Shopping
+TRP000922,Street Hail,Call Center,TRUE,TRUE,3,Medical
+TRP000923,Phone Booking,Roadside,TRUE,FALSE,3,Airport
+TRP000924,Phone Booking,Mobile App,TRUE,TRUE,2,Medical
+TRP000925,Street Hail,Taxi Stand,TRUE,FALSE,1,Tourism
+TRP000926,App Booking,Roadside,TRUE,TRUE,0,Commute
+TRP000927,App Booking,Taxi Stand,TRUE,FALSE,3,Commute
+TRP000928,Street Hail,Mobile App,TRUE,TRUE,1,Shopping
+TRP000929,Street Hail,Mobile App,TRUE,FALSE,3,Airport
+TRP000930,Street Hail,Mobile App,TRUE,FALSE,2,Tourism
+TRP000931,App Booking,Call Center,TRUE,TRUE,1,Airport
+TRP000932,App Booking,Mobile App,TRUE,TRUE,4,Shopping
+TRP000933,App Booking,Roadside,TRUE,FALSE,0,Tourism
+TRP000934,Street Hail,Call Center,TRUE,FALSE,0,Tourism
+TRP000935,App Booking,Taxi Stand,FALSE,TRUE,3,Commute
+TRP000936,Phone Booking,Roadside,TRUE,TRUE,0,Commute
+TRP000937,Street Hail,Roadside,TRUE,TRUE,4,Commute
+TRP000938,App Booking,Taxi Stand,TRUE,FALSE,1,Medical
+TRP000939,Street Hail,Call Center,TRUE,FALSE,1,Business
+TRP000940,Phone Booking,Roadside,TRUE,TRUE,2,Commute
+TRP000941,Phone Booking,Roadside,TRUE,FALSE,1,Business
+TRP000942,Street Hail,Roadside,TRUE,FALSE,3,Business
+TRP000943,Street Hail,Call Center,TRUE,TRUE,4,Airport
+TRP000944,Phone Booking,Call Center,TRUE,FALSE,2,Shopping
+TRP000945,Street Hail,Call Center,TRUE,TRUE,3,Medical
+TRP000946,Phone Booking,Roadside,TRUE,TRUE,3,Business
+TRP000947,Phone Booking,Mobile App,TRUE,FALSE,3,Medical
+TRP000948,App Booking,Taxi Stand,TRUE,FALSE,0,Airport
+TRP000949,Street Hail,Mobile App,FALSE,TRUE,3,Commute
+TRP000950,Street Hail,Call Center,TRUE,TRUE,0,Tourism
+TRP000951,App Booking,Roadside,TRUE,TRUE,1,Business
+TRP000952,Phone Booking,Roadside,TRUE,FALSE,0,Shopping
+TRP000953,Street Hail,Mobile App,FALSE,TRUE,3,Tourism
+TRP000954,App Booking,Mobile App,TRUE,TRUE,4,Airport
+TRP000955,App Booking,Taxi Stand,TRUE,TRUE,4,Medical
+TRP000956,Street Hail,Roadside,TRUE,TRUE,1,Commute
+TRP000957,App Booking,Mobile App,TRUE,FALSE,3,Medical
+TRP000958,Phone Booking,Taxi Stand,TRUE,FALSE,0,Shopping
+TRP000959,App Booking,Call Center,TRUE,TRUE,4,Business
+TRP000960,Phone Booking,Mobile App,TRUE,FALSE,2,Shopping
+TRP000961,Phone Booking,Call Center,TRUE,FALSE,3,Medical
+TRP000962,Street Hail,Taxi Stand,TRUE,FALSE,3,Medical
+TRP000963,App Booking,Call Center,TRUE,TRUE,2,Tourism
+TRP000964,Phone Booking,Roadside,TRUE,FALSE,4,Shopping
+TRP000965,Phone Booking,Roadside,TRUE,FALSE,2,Shopping
+TRP000966,App Booking,Call Center,TRUE,TRUE,1,Shopping
+TRP000967,Phone Booking,Roadside,TRUE,TRUE,0,Commute
+TRP000968,App Booking,Taxi Stand,TRUE,FALSE,0,Medical
+TRP000969,Street Hail,Roadside,TRUE,FALSE,4,Airport
+TRP000970,Phone Booking,Call Center,TRUE,TRUE,2,Commute
+TRP000971,Phone Booking,Call Center,TRUE,TRUE,3,Commute
+TRP000972,App Booking,Call Center,TRUE,TRUE,3,Commute
+TRP000973,App Booking,Mobile App,TRUE,TRUE,3,Tourism
+TRP000974,App Booking,Call Center,TRUE,FALSE,1,Airport
+TRP000975,App Booking,Taxi Stand,TRUE,TRUE,1,Shopping
+TRP000976,Phone Booking,Roadside,TRUE,FALSE,3,Tourism
+TRP000977,Street Hail,Roadside,TRUE,FALSE,4,Medical
+TRP000978,Street Hail,Mobile App,TRUE,FALSE,1,Business
+TRP000979,Street Hail,Mobile App,TRUE,TRUE,1,Tourism
+TRP000980,Street Hail,Taxi Stand,TRUE,TRUE,0,Business
+TRP000981,App Booking,Call Center,TRUE,FALSE,0,Medical
+TRP000982,Phone Booking,Mobile App,TRUE,FALSE,4,Airport
+TRP000983,Phone Booking,Roadside,TRUE,FALSE,1,Business
+TRP000984,Phone Booking,Mobile App,TRUE,FALSE,1,Commute
+TRP000985,App Booking,Mobile App,TRUE,FALSE,2,Tourism
+TRP000986,Phone Booking,Call Center,TRUE,TRUE,4,Business
+TRP000987,App Booking,Mobile App,TRUE,TRUE,4,Medical
+TRP000988,Phone Booking,Taxi Stand,TRUE,TRUE,2,Commute
+TRP000989,Street Hail,Roadside,TRUE,FALSE,2,Business
+TRP000990,App Booking,Call Center,TRUE,FALSE,0,Medical
+TRP000991,Phone Booking,Roadside,TRUE,TRUE,4,Airport
+TRP000992,Street Hail,Taxi Stand,TRUE,TRUE,4,Medical
+TRP000993,Street Hail,Taxi Stand,FALSE,FALSE,2,Airport
+TRP000994,Street Hail,Mobile App,TRUE,TRUE,3,Commute
+TRP000995,App Booking,Mobile App,TRUE,TRUE,3,Medical
+TRP000996,App Booking,Mobile App,TRUE,TRUE,0,Shopping
+TRP000997,Phone Booking,Roadside,TRUE,FALSE,3,Tourism
+TRP000998,Street Hail,Taxi Stand,TRUE,FALSE,3,Shopping
+TRP000999,Phone Booking,Call Center,TRUE,TRUE,3,Shopping
+TRP001000,Phone Booking,Mobile App,TRUE,FALSE,1,Shopping
+TRP001001,Street Hail,Roadside,TRUE,TRUE,0,Tourism
+TRP001002,Phone Booking,Mobile App,TRUE,TRUE,2,Shopping
+TRP001003,App Booking,Taxi Stand,FALSE,FALSE,3,Airport
+TRP001004,Phone Booking,Call Center,TRUE,FALSE,1,Medical
+TRP001005,Street Hail,Taxi Stand,FALSE,FALSE,3,Commute
+TRP001006,App Booking,Roadside,FALSE,TRUE,1,Shopping
+TRP001007,App Booking,Mobile App,TRUE,TRUE,0,Shopping
+TRP001008,Phone Booking,Taxi Stand,TRUE,TRUE,3,Commute
+TRP001009,Phone Booking,Roadside,TRUE,FALSE,1,Commute
+TRP001010,App Booking,Mobile App,TRUE,TRUE,4,Shopping
+TRP001011,Phone Booking,Call Center,TRUE,TRUE,4,Airport
+TRP001012,Street Hail,Taxi Stand,TRUE,TRUE,1,Commute
+TRP001013,Phone Booking,Mobile App,TRUE,TRUE,3,Medical
+TRP001014,Phone Booking,Mobile App,TRUE,FALSE,3,Medical
+TRP001015,App Booking,Mobile App,TRUE,FALSE,0,Airport
+TRP001016,Phone Booking,Mobile App,TRUE,FALSE,0,Tourism
+TRP001017,Phone Booking,Taxi Stand,TRUE,TRUE,2,Business
+TRP001018,Phone Booking,Mobile App,TRUE,TRUE,0,Airport
+TRP001019,Street Hail,Roadside,TRUE,TRUE,3,Shopping
+TRP001020,Phone Booking,Taxi Stand,TRUE,FALSE,2,Business
+TRP001021,Street Hail,Mobile App,TRUE,FALSE,0,Shopping
+TRP001022,Street Hail,Taxi Stand,TRUE,FALSE,1,Medical
+TRP001023,Street Hail,Roadside,TRUE,FALSE,4,Commute
+TRP001024,Street Hail,Roadside,TRUE,FALSE,0,Shopping
+TRP001025,App Booking,Taxi Stand,TRUE,TRUE,0,Medical
+TRP001026,Street Hail,Mobile App,TRUE,FALSE,1,Airport
+TRP001027,Phone Booking,Mobile App,TRUE,FALSE,3,Shopping
+TRP001028,Street Hail,Roadside,TRUE,FALSE,1,Medical
+TRP001029,Phone Booking,Mobile App,TRUE,TRUE,0,Commute
+TRP001030,Street Hail,Roadside,TRUE,FALSE,3,Shopping
+TRP001031,App Booking,Mobile App,TRUE,FALSE,2,Tourism
+TRP001032,Street Hail,Roadside,TRUE,FALSE,0,Medical
+TRP001033,Street Hail,Call Center,TRUE,TRUE,1,Shopping
+TRP001034,App Booking,Mobile App,FALSE,TRUE,2,Commute
+TRP001035,Street Hail,Mobile App,TRUE,FALSE,4,Shopping
+TRP001036,Phone Booking,Mobile App,TRUE,FALSE,2,Shopping
+TRP001037,Street Hail,Taxi Stand,TRUE,FALSE,1,Tourism
+TRP001038,Street Hail,Mobile App,TRUE,FALSE,2,Medical
+TRP001039,Street Hail,Taxi Stand,TRUE,TRUE,1,Business
+TRP001040,App Booking,Taxi Stand,TRUE,FALSE,0,Shopping
+TRP001041,Street Hail,Roadside,TRUE,TRUE,3,Business
+TRP001042,Street Hail,Taxi Stand,TRUE,FALSE,4,Airport
+TRP001043,Phone Booking,Taxi Stand,TRUE,TRUE,3,Shopping
+TRP001044,Street Hail,Call Center,TRUE,TRUE,3,Business
+TRP001045,Street Hail,Mobile App,TRUE,FALSE,3,Airport
+TRP001046,Street Hail,Taxi Stand,TRUE,TRUE,1,Tourism
+TRP001047,Street Hail,Mobile App,TRUE,FALSE,1,Medical
+TRP001048,Phone Booking,Taxi Stand,FALSE,TRUE,4,Shopping
+TRP001049,Phone Booking,Roadside,TRUE,TRUE,1,Medical
+TRP001050,App Booking,Call Center,TRUE,FALSE,1,Airport
+TRP001051,Street Hail,Taxi Stand,TRUE,FALSE,1,Medical
+TRP001052,App Booking,Mobile App,TRUE,TRUE,1,Medical
+TRP001053,App Booking,Roadside,TRUE,TRUE,0,Commute
+TRP001054,Street Hail,Mobile App,FALSE,FALSE,4,Airport
+TRP001055,Phone Booking,Roadside,TRUE,FALSE,1,Medical
+TRP001056,Phone Booking,Call Center,TRUE,FALSE,4,Business
+TRP001057,Street Hail,Roadside,TRUE,TRUE,2,Airport
+TRP001058,Street Hail,Mobile App,TRUE,FALSE,0,Commute
+TRP001059,Phone Booking,Mobile App,TRUE,FALSE,1,Shopping
+TRP001060,Street Hail,Taxi Stand,TRUE,TRUE,0,Tourism
+TRP001061,Street Hail,Roadside,FALSE,FALSE,0,Medical
+TRP001062,Street Hail,Mobile App,TRUE,FALSE,2,Business
+TRP001063,Phone Booking,Taxi Stand,TRUE,FALSE,4,Commute
+TRP001064,App Booking,Call Center,TRUE,FALSE,0,Airport
+TRP001065,App Booking,Mobile App,TRUE,TRUE,3,Tourism
+TRP001066,Street Hail,Taxi Stand,FALSE,FALSE,2,Tourism
+TRP001067,Phone Booking,Mobile App,TRUE,FALSE,3,Medical
+TRP001068,Street Hail,Roadside,TRUE,FALSE,2,Commute
+TRP001069,Phone Booking,Taxi Stand,TRUE,FALSE,3,Commute
+TRP001070,Street Hail,Roadside,TRUE,FALSE,3,Business
+TRP001071,Phone Booking,Call Center,TRUE,FALSE,0,Shopping
+TRP001072,Phone Booking,Roadside,TRUE,TRUE,0,Shopping
+TRP001073,App Booking,Taxi Stand,TRUE,TRUE,2,Shopping
+TRP001074,Street Hail,Mobile App,TRUE,TRUE,4,Tourism
+TRP001075,App Booking,Taxi Stand,TRUE,FALSE,0,Tourism
+TRP001076,App Booking,Roadside,TRUE,FALSE,0,Airport
+TRP001077,Phone Booking,Roadside,TRUE,FALSE,1,Tourism
+TRP001078,Street Hail,Mobile App,TRUE,TRUE,0,Tourism
+TRP001079,Phone Booking,Call Center,TRUE,FALSE,4,Commute
+TRP001080,Phone Booking,Taxi Stand,TRUE,TRUE,1,Airport
+TRP001081,Phone Booking,Mobile App,TRUE,FALSE,3,Commute
+TRP001082,Street Hail,Mobile App,TRUE,FALSE,3,Business
+TRP001083,Street Hail,Mobile App,TRUE,TRUE,1,Business
+TRP001084,Phone Booking,Taxi Stand,TRUE,TRUE,1,Airport
+TRP001085,Street Hail,Taxi Stand,TRUE,TRUE,1,Airport
+TRP001086,Phone Booking,Taxi Stand,TRUE,TRUE,2,Tourism
+TRP001087,Street Hail,Call Center,TRUE,TRUE,4,Business
+TRP001088,Street Hail,Mobile App,TRUE,TRUE,4,Medical
+TRP001089,App Booking,Roadside,TRUE,FALSE,3,Shopping
+TRP001090,Phone Booking,Roadside,TRUE,TRUE,3,Tourism
+TRP001091,App Booking,Mobile App,TRUE,FALSE,3,Shopping
+TRP001092,App Booking,Roadside,TRUE,FALSE,0,Business
+TRP001093,Phone Booking,Call Center,FALSE,FALSE,3,Shopping
+TRP001094,Phone Booking,Call Center,TRUE,FALSE,1,Medical
+TRP001095,Street Hail,Taxi Stand,TRUE,FALSE,3,Medical
+TRP001096,Phone Booking,Taxi Stand,TRUE,TRUE,1,Commute
+TRP001097,App Booking,Taxi Stand,TRUE,TRUE,2,Airport
+TRP001098,App Booking,Taxi Stand,TRUE,TRUE,0,Shopping
+TRP001099,Phone Booking,Taxi Stand,TRUE,FALSE,0,Medical
+TRP001100,App Booking,Roadside,TRUE,TRUE,4,Airport
+TRP001101,Street Hail,Roadside,TRUE,FALSE,2,Airport
+TRP001102,App Booking,Taxi Stand,TRUE,FALSE,1,Commute
+TRP001103,Street Hail,Call Center,TRUE,FALSE,2,Airport
+TRP001104,App Booking,Roadside,FALSE,FALSE,0,Airport
+TRP001105,Street Hail,Call Center,TRUE,TRUE,1,Tourism
+TRP001106,Street Hail,Call Center,TRUE,TRUE,2,Business
+TRP001107,Phone Booking,Mobile App,TRUE,TRUE,0,Commute
+TRP001108,Street Hail,Mobile App,TRUE,TRUE,1,Commute
+TRP001109,Phone Booking,Taxi Stand,TRUE,TRUE,1,Shopping
+TRP001110,App Booking,Call Center,TRUE,FALSE,0,Airport
+TRP001111,App Booking,Roadside,TRUE,TRUE,1,Shopping
+TRP001112,App Booking,Mobile App,TRUE,FALSE,0,Tourism
+TRP001113,Street Hail,Mobile App,TRUE,FALSE,3,Medical
+TRP001114,App Booking,Call Center,TRUE,FALSE,3,Airport
+TRP001115,App Booking,Mobile App,TRUE,TRUE,1,Medical
+TRP001116,Phone Booking,Mobile App,FALSE,FALSE,1,Business
+TRP001117,Phone Booking,Roadside,TRUE,FALSE,0,Tourism
+TRP001118,App Booking,Call Center,TRUE,TRUE,1,Airport
+TRP001119,App Booking,Mobile App,TRUE,FALSE,4,Shopping
+TRP001120,Street Hail,Call Center,TRUE,FALSE,3,Shopping
+TRP001121,Street Hail,Mobile App,TRUE,FALSE,1,Airport
+TRP001122,App Booking,Roadside,TRUE,TRUE,1,Shopping
+TRP001123,Phone Booking,Call Center,FALSE,FALSE,2,Airport
+TRP001124,App Booking,Mobile App,FALSE,FALSE,1,Commute
+TRP001125,Street Hail,Roadside,TRUE,TRUE,4,Shopping
+TRP001126,Phone Booking,Mobile App,TRUE,TRUE,3,Airport
+TRP001127,Phone Booking,Call Center,TRUE,FALSE,2,Airport
+TRP001128,Street Hail,Mobile App,TRUE,TRUE,0,Shopping
+TRP001129,App Booking,Call Center,TRUE,TRUE,0,Commute
+TRP001130,App Booking,Call Center,TRUE,TRUE,3,Shopping
+TRP001131,App Booking,Mobile App,FALSE,TRUE,0,Airport
+TRP001132,Street Hail,Roadside,TRUE,TRUE,4,Commute
+TRP001133,Phone Booking,Taxi Stand,TRUE,TRUE,1,Medical
+TRP001134,Street Hail,Roadside,TRUE,TRUE,3,Business
+TRP001135,App Booking,Roadside,FALSE,FALSE,2,Shopping
+TRP001136,Street Hail,Mobile App,TRUE,TRUE,1,Tourism
+TRP001137,Phone Booking,Roadside,TRUE,TRUE,0,Airport
+TRP001138,Street Hail,Roadside,TRUE,TRUE,0,Commute
+TRP001139,App Booking,Taxi Stand,TRUE,FALSE,2,Commute
+TRP001140,Phone Booking,Roadside,TRUE,TRUE,4,Medical
+TRP001141,Street Hail,Taxi Stand,TRUE,TRUE,2,Shopping
+TRP001142,Street Hail,Mobile App,TRUE,FALSE,3,Tourism
+TRP001143,Phone Booking,Taxi Stand,TRUE,TRUE,2,Commute
+TRP001144,Phone Booking,Call Center,TRUE,FALSE,0,Medical
+TRP001145,App Booking,Call Center,TRUE,FALSE,4,Airport
+TRP001146,Phone Booking,Taxi Stand,TRUE,TRUE,4,Medical
+TRP001147,App Booking,Call Center,TRUE,FALSE,2,Shopping
+TRP001148,Street Hail,Mobile App,FALSE,TRUE,3,Medical
+TRP001149,App Booking,Call Center,TRUE,TRUE,0,Commute
+TRP001150,Street Hail,Taxi Stand,TRUE,FALSE,1,Commute
+TRP001151,Phone Booking,Mobile App,TRUE,FALSE,4,Business
+TRP001152,Street Hail,Call Center,TRUE,TRUE,2,Medical
+TRP001153,Phone Booking,Mobile App,TRUE,TRUE,3,Airport
+TRP001154,Street Hail,Taxi Stand,TRUE,FALSE,3,Tourism
+TRP001155,Street Hail,Call Center,TRUE,TRUE,0,Tourism
+TRP001156,Street Hail,Mobile App,TRUE,TRUE,4,Shopping
+TRP001157,Street Hail,Mobile App,TRUE,TRUE,0,Business
+TRP001158,App Booking,Call Center,TRUE,FALSE,1,Medical
+TRP001159,Street Hail,Mobile App,TRUE,TRUE,1,Airport
+TRP001160,App Booking,Mobile App,TRUE,TRUE,1,Business
+TRP001161,Phone Booking,Taxi Stand,TRUE,TRUE,3,Commute
+TRP001162,Phone Booking,Taxi Stand,FALSE,FALSE,4,Shopping
+TRP001163,App Booking,Taxi Stand,TRUE,FALSE,0,Medical
+TRP001164,Phone Booking,Taxi Stand,TRUE,FALSE,0,Tourism
+TRP001165,Phone Booking,Taxi Stand,TRUE,TRUE,1,Airport
+TRP001166,Street Hail,Taxi Stand,FALSE,FALSE,4,Commute
+TRP001167,Street Hail,Call Center,TRUE,TRUE,4,Business
+TRP001168,Street Hail,Taxi Stand,TRUE,FALSE,2,Shopping
+TRP001169,App Booking,Mobile App,TRUE,TRUE,4,Business
+TRP001170,App Booking,Call Center,FALSE,FALSE,4,Tourism
+TRP001171,Phone Booking,Mobile App,TRUE,TRUE,0,Business
+TRP001172,Street Hail,Taxi Stand,TRUE,TRUE,4,Airport
+TRP001173,App Booking,Taxi Stand,TRUE,FALSE,4,Commute
+TRP001174,App Booking,Mobile App,TRUE,TRUE,0,Medical
+TRP001175,Street Hail,Mobile App,TRUE,FALSE,4,Airport
+TRP001176,App Booking,Mobile App,TRUE,FALSE,0,Tourism
+TRP001177,Street Hail,Roadside,TRUE,TRUE,2,Shopping
+TRP001178,Phone Booking,Roadside,TRUE,TRUE,3,Tourism
+TRP001179,Phone Booking,Roadside,TRUE,FALSE,0,Tourism
+TRP001180,Phone Booking,Roadside,TRUE,FALSE,0,Business
+TRP001181,Street Hail,Call Center,TRUE,FALSE,4,Shopping
+TRP001182,App Booking,Taxi Stand,TRUE,TRUE,0,Airport
+TRP001183,Phone Booking,Mobile App,TRUE,FALSE,1,Tourism
+TRP001184,Phone Booking,Taxi Stand,TRUE,TRUE,1,Airport
+TRP001185,Phone Booking,Mobile App,TRUE,TRUE,2,Medical
+TRP001186,App Booking,Taxi Stand,TRUE,FALSE,0,Business
+TRP001187,App Booking,Call Center,TRUE,FALSE,4,Airport
+TRP001188,Street Hail,Roadside,TRUE,TRUE,4,Shopping
+TRP001189,Phone Booking,Taxi Stand,TRUE,TRUE,3,Tourism
+TRP001190,App Booking,Mobile App,TRUE,TRUE,2,Medical
+TRP001191,Street Hail,Taxi Stand,TRUE,TRUE,4,Shopping
+TRP001192,Phone Booking,Call Center,TRUE,FALSE,3,Business
+TRP001193,App Booking,Call Center,TRUE,TRUE,4,Medical
+TRP001194,App Booking,Taxi Stand,FALSE,FALSE,3,Medical
+TRP001195,Street Hail,Roadside,TRUE,FALSE,1,Medical
+TRP001196,Phone Booking,Mobile App,FALSE,FALSE,1,Tourism
+TRP001197,Phone Booking,Call Center,TRUE,TRUE,4,Commute
+TRP001198,App Booking,Call Center,FALSE,TRUE,2,Medical
+TRP001199,Phone Booking,Taxi Stand,TRUE,FALSE,0,Shopping
+TRP001200,Street Hail,Call Center,TRUE,FALSE,2,Shopping
+TRP000006,Street Hail,Call Center,TRUE,FALSE,2,Tourism
+TRP000007,Street Hail,Call Center,TRUE,TRUE,3,Commute
+TRP000008,Street Hail,Mobile App,TRUE,FALSE,0,Shopping
+TRP000009,Phone Booking,Taxi Stand,FALSE,TRUE,0,Business
+TRP000010,Street Hail,Taxi Stand,TRUE,FALSE,3,Medical
+TRP000011,Phone Booking,Call Center,TRUE,TRUE,1,Airport
+TRP000012,Phone Booking,Taxi Stand,TRUE,TRUE,0,Tourism
+TRP000013,Phone Booking,Mobile App,TRUE,TRUE,3,Medical
+TRP000014,Street Hail,Roadside,TRUE,FALSE,0,Commute
+TRP000015,Street Hail,Mobile App,TRUE,FALSE,1,Medical
+TRP000016,Street Hail,Call Center,TRUE,FALSE,2,Medical
+TRP000017,App Booking,Call Center,TRUE,FALSE,1,Business
+TRP000018,Phone Booking,Call Center,TRUE,FALSE,4,Commute
